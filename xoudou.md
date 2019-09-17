@@ -1,4 +1,10 @@
 
+<div align=center>
+<img src="img/2019-09-15_143210.jpg" ></div></p>
+
+<div align=center>
+<img src="img/fngrchn.jpg" width=580> </div></p>
+
 <h3 align=center>中秋节16000条问候 经明慧寄李洪志大师</h3></p>
 
 <div align=center>
@@ -48,9 +54,9 @@
 
 
 
-
 <div align=center>
-<img src="img/2019-09-15_143210.jpg" ></div></p>
+<img src="img/fngrchn.jpg" width=580> </div></p>
+
 
 <h3 align=center>中秋月圆 逾40国法轮功学员问候李洪志师父</h3></p>
 
