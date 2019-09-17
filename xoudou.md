@@ -52,7 +52,7 @@
 
 责任编辑：高静</p>
 
-
+<hr>
 
 <div align=center>
 <img src="img/fngrchn.jpg" width=580> </div></p>
