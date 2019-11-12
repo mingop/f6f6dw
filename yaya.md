@@ -21,7 +21,7 @@
 </table>
 </p>
 <div align=center>
-<img src="images/1552100-ss1.jpg">
+<img src="img/1552100-ss1.jpg">
 </div>
 
 <hr>
@@ -40,7 +40,7 @@
 
 
 <div align=center>
-<img src="images/1411500.jpg">
+<img src="img/1411500.jpg">
 </div>
 <div align=center>2010年，台湾部分法轮功学员6000人排出《转法轮》一书封面。（大纪元）</div>
 <hr>
@@ -61,7 +61,7 @@
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">第一套功法：佛展千手法</a></h2>
 
 <div align=center>
-<img src="images/day-01.JPG" width=700 >
+<img src="img/day-01.JPG" width=700 >
 </div>
 <div align=center>佛展千手法这套动作的核心就是疏展，打通能量淤塞的地方，调动体内和皮下之能量强烈运动，自动的大量吸收宇宙中的能量，使修炼者一上来就达到百脉皆通。</div>
 
@@ -70,7 +70,7 @@
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">第二套功法：法轮桩法</a></h2>
 
 <div align=center>
-<img src="images/day-02.jpg" width=700 >
+<img src="img/day-02.jpg" width=700 >
 </div>
 <div align=center>法轮桩法属于静桩法，由四个抱轮动作组成。常炼法轮桩法可使修炼者全身全部贯通，是生慧增力，提高层次，加持神通的全修方法。</div>
 
@@ -78,19 +78,19 @@
 
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">第三套功法：贯通两极法</a></h2>
 <div align=center>
-<img src="images/hsa0002.jpg" width=700>
+<img src="img/hsa0002.jpg" width=700>
 </div>
 <div align=center>贯通两极法是将宇宙之能量和体内之能量混合贯通之法。炼这套功法时，吐纳量很大，可使修炼者在极短的时间内达到净化身体的目的；同时，还可在冲灌中开顶，也能在冲灌中打开脚下人体之通道。</div>
 <hr>
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">第四套功法：法轮周天法</a></h2>
 <div align=center>
-<img src="images/day-03.jpg" width=700>
+<img src="img/day-03.jpg" width=700>
 </div>
 <div align=center>法轮周天法是使人体能量大面积流动，不是一条脉或几条脉在走，而是从人体的阴面整面循环到阳面，往复不停，远远地超出了一般通脉法或大小周天。</div>
 <hr>
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">第五套功法：神通加持法</a></h2>
 <div align=center>
-<img src="images/l01_3_big.jpg" width=700>
+<img src="img/l01_3_big.jpg" width=700>
 </div>
 
 <div align=center>神通加持法属于静功修炼法，是用佛之手印转法轮，加持神通（包括功能）与功力的多项同修功法。</div>
@@ -111,13 +111,13 @@
 <hr>
 
 <div align=center>
-<img src="images/6363-ss.jpg"width=700>
+<img src="img/6363-ss.jpg"width=700>
 </div>
 <hr>
  <h2 align=center><a href="http://www.soundofhope.org/gb/category/?raw=true">关贵敏:了解生命的真谛才会拥有美好的未来</a></h2>
 
 <div align=center>
-<img src="images/809789.jpg"width=350>
+<img src="img/809789.jpg"width=350>
 </div>
 被誉为“中国歌王”的关贵敏先生是中国家喻户晓一级演员，39岁时歌唱事业正达高峰，却发现罹患乙型肝炎兼早期肝硬化，1996年他开始修炼法轮功，身体奇迹般不治自愈，感到精力前所未有的充沛。按照“真善忍”的标准去做一个好人，这种快乐的感觉是前所未有的。他说，任何名和利都不可能带走，他看淡了一切，身心健康。</P>
 七旬高龄的关贵敏用穿云裂石的歌声再登神韵国际舞台，在世界各地巡回演出，让新老歌迷喜出望外。声乐界认为，65岁是男高音的极限。关贵敏：“我今年已经72岁了，在国内跟我同龄的人，基本都退出舞台了，包括我的下一代，基本嗓子也都哑了。”</P>
@@ -128,7 +128,7 @@
 <h2 align="center"><a href="http://www.soundofhope.org/gb/category/?raw=true">哈佛医师汪志远走出「渐冻」绝境的生命奇迹 </a></h2>
 
 <div align=center>
-<img src="images/wzy.jpg">
+<img src="img/wzy.jpg">
 </div>
 <div align=center>曾经的“渐冻人”患者汪志远主任医师，如今的追查国际发言人(网络图片)</div></P>
 
@@ -137,7 +137,7 @@
 
 <h2 align="center"><a href="http://www.soundofhope.org/gb/category/?raw=true">李有甫从武术气功大师到法轮功徒弟的传奇</a></h2>
 <div align=center>
-<img src="images/8779.jpg"width=250>
+<img src="img/8779.jpg"width=250>
 </div>
 曾是中国人体科学研究中心副研究员的李有甫，也是中医和气功领域的知名人物。可是，他却断然放弃了用无数汗水换来的大师级的名利和成就，成为一名普通的法轮功弟子。</P>
 李有甫说：“自从我开始练气功以后，特别是特异功能的研究，让我明白人是有前生来世的，这世界是有另外空间存在的，而无神论否定另外空间的存在，把人的认识完全局限在我们看得见摸得着的物质空间里，这样的世界观是看不到宇宙真相的，我相信宗教中说的都是真的，于是我开始在宗教中寻找人生真谛。我尝试了许多修佛修道的法门，最后总感到其基本内涵都失传了，怎么练也提高不大。但当我第一次拿到《转法轮》时，我一口气读完了全书，一边读一边流泪。我寻觅了半辈子，结果终于找到了答案，这才是真法真道啊！”</P>
@@ -146,14 +146,14 @@
 
 <h2 align="center"><a href="http://www.soundofhope.org/gb/category/?raw=true">释证通 万里寻大道</a></h2>
 <div align=center>
-<img src="images/233541858.jpg">
+<img src="img/233541858.jpg">
 </div>
 释证通：台湾南部的洪济精舍的住持，曾在佛教中修炼数十载，上下求索。为了探求宇宙人生真谛，在担任住持期间，释证通还曾多次探访名山圣地，追寻大觉者的足迹，她先后去过西藏、喜马拉雅山、长江、黄河源头、昆仑山、尼泊尔，还有印度。云游途中，走的都是荒郊野外、荒漠河滩，吃饭时只能在地上挖个坑烧点水，生活非常艰苦。了解她的人不但感叹她九死一生的传奇经历，也为她追寻佛法真理吃尽万般苦的精神所感动。1998年在法轮功中她终于找到了真正的修炼大道。她曾说过：“师父用全人类最浅白的语言，把最高深的道理讲出来了。”“比如修炼到底是什么，师父讲：‘整个人的修炼过程就是不断的去人的执着心的过程。（《转法轮》）’这些都是我们修佛几十年也没有明白的道理，师父一句话就点明了。”</P>
 <hr>
 
 <h2 align="center"><a href="http://www.soundofhope.org/gb/category/?raw=true">台湾风水师走入法轮功修炼的神奇故事</a></h2>
 <div align=center>
-<img src="images/qsy-600x418.jpg">
+<img src="img/qsy-600x418.jpg">
 </div>
 台湾的西南部有一个台南市，台南市的西南部有一个安南区，安南区里有一个响当当的风水师，名字叫邱世昱。此人在庙里帮人办法事25年，足迹遍及台南大大小小的庙宇，政经商界常常有人请他去处理风水问题。</P>
 
@@ -181,7 +181,7 @@
 <hr>
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">国际知名模特：修炼让我在喧哗世界中沉静</a></h2>
 <div align=center>
-<img src="images/Mor_12.jpg">
+<img src="img/Mor_12.jpg">
 </div>
 25岁的印度超模普贾•穆尔（Pooja Mor）近年来风靡国际时尚界，曾代言诸多知名品牌如《时尚精英》（Elite）等，最近还入选国际知名时尚杂志《Grazia》“时尚界百名最有影响力人物”。目前定居在纽约，虽然有令人羡慕的职业，穆尔透露，模特这一行也面临很多身心方面的挑战。</P>
 
@@ -195,7 +195,7 @@
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">法轮功学员获瑞典国王亲自颁创业奖</a></h2>
 
 <div align=center>
-<img src="images/5811521_n-.jpg">
+<img src="img/5811521_n-.jpg">
 </div>
 <div align=center>2011年10月17日，瓦西柳斯•祖朴尼第斯获得「国王卡尔十六世古斯塔夫奖」，瑞典国王亲自到场为他颁奖。(Vasilios Zoupounidis/Facebook)</div>
 </P>
@@ -207,7 +207,7 @@
 <h2 align="center"><a href="https://?raw=true">百岁老人：法轮大法延长了我的寿命</a></h2>
 
 <div align=center>
-<img src="images/2018-4-4-106years-old_01--ss.jpg">
+<img src="img/2018-4-4-106years-old_01--ss.jpg">
 </div>
 
 【明慧网二零一八年四月五日】我今年一百零六岁，从小没有上过学，也不识字。二零零四年，我是个要死的人，因为得了一种病，医院治不好，吃药不好使，已经到了晚期，家里人把我的后事都准备好了。
@@ -254,7 +254,7 @@
 
 当时年近九十岁的马济宇开始盘腿打坐时，也是吃足了苦头。他回忆说：“我年纪那么大了，一辈子也没盘过腿，别说双盘，单盘我都没办法。但慢慢的，几个月后，可以单盘了，再经过几个月能够双盘了，然后从五分钟、十五分钟，到后来双盘打坐一个小时都不成问题。”
 <div align=center>
-<img src="images/2009-4-28-224817-0--ss.jpg"width=300>
+<img src="img/2009-4-28-224817-0--ss.jpg"width=300>
 </div>
 <div align=center>马济宇每天清晨炼功、打坐</div></p>
 马济宇以坚强的毅力与决心持续炼下来，奇迹出现了：</p>
@@ -284,7 +284,7 @@
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">30年车祸创痛 读《转法轮》后消失</a></h2>
 
 <div align=center>
-<img src="images/story_01--ss.jpg">
+<img src="img/story_01--ss.jpg">
 </div>
 
 【明慧网】比利时人安•图尔玲兹，是6个孩子的母亲。30年前的一场严重车祸给她留下了连绵的伤痛。车祸中，安女士与死神擦肩而过，可是之后，她周身都是病痛，平时走路都得用拐杖。她回忆道：“我不能跑，不能追赶汽车，不能追逐照顾到处跑的孩子，也不能跟孩子们玩儿。”</P>
@@ -338,7 +338,7 @@
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">奥运名将黄晓敏：法轮功给我第二次生命</a></h2>
 
 <div align=center>
-<img src="images/412225009628.jpg">
+<img src="img/412225009628.jpg">
 </div>
 
 黄晓敏曾经叱咤世界的泳坛，被誉为中国游泳界“五朵金花”之一，1986年年仅17岁在汉城亚运会夺得女子100米蛙泳金牌，是亚洲女子蛙泳第一人，接着在汉城奥运会得到银牌，1987年获亚洲十佳运动员。</P>
@@ -352,7 +352,7 @@
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">法轮大法使他告别毒品 做个善良人</a></h2>
 
 <div align=center>
-<img src="images/story_02.jpg">
+<img src="img/story_02.jpg">
 </div>
 
 【明慧网】雅惠服务于娱乐圈，是彩妆造型师，在23岁时就与圈内做服装造型的先生结婚，夫妻俩收入丰厚，却在七情六欲的虚华生活中肆意挥霍。</P>
@@ -366,7 +366,7 @@
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">坏学生修炼后变乖 印度校长盛赞法轮功</a></h2>
 
 <div align=center>
-<img src="images/g-01--ss.jpg">
+<img src="img/g-01--ss.jpg">
 </div>
 <div align=center>印度师生集体晨炼法轮功的五套功法</div></P>
 “印度全国学校协会”2007年举办五十周年大型庆典活动，一位Verkey校长上台致词时，盛赞法轮功不仅帮助自己身心健康，连他的学生们修炼之后，品行变好功课也大幅進步，效果堪称“全世界Only one”，引起现场一片热烈掌声。</P>
@@ -389,7 +389,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <h2 align="center"><a href="https://a8.168dns.info/20?raw=true">印度中部城市学校师生学炼法轮功</a></h2>
 
 <div align=center>
-<img src="images/1-64-600x380.jpg">
+<img src="img/1-64-600x380.jpg">
 </div>
 <div align=center>2019年8月22日，法轮功学员在印度吉杰玛特（Jijamata）学校教授法轮功功法。（明慧网）</div></P>
 
@@ -401,7 +401,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 学员们向学校的师生们讲述了什么是法轮功，“真、善、忍”是法轮功的修炼原则，并向300多名师生教授了五套功法。校长和许多老师都赞扬法轮功好，他们表现出了极大的兴趣，并向法轮功学员们提出了许多问题，想进一步了解法轮功功法。</P>
 
 <div align=center>
-<img src="images/2019-8-26-mh-india-school-hf-01-600x356.jpg">
+<img src="img/2019-8-26-mh-india-school-hf-01-600x356.jpg">
 </div>
 <div align=center>法轮功学员在吉杰玛特（Jijamata）学校教授法轮功功法。（明慧网）</div></P>
 
@@ -412,7 +412,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 校长对修炼法轮功非常感兴趣，要求播放法轮功师父教功的视频，想更多地了解法轮功。</P>
 
 <div align=center>
-<img src="images/2019-8-26-mh-india-school-hf-02-600x377.jpg">
+<img src="img/2019-8-26-mh-india-school-hf-02-600x377.jpg">
 </div>
 <div align=center>法轮功学员在圣十字修道院（holycross）学校教授功法。（明慧网）</div></P>
 
@@ -437,14 +437,14 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 转法轮》已被译成四十多种语言，在国际社会上公开发行。
 
 <div align=center>
-<img src="images/91f44bc233f6e65f0c8df54596b77fce.jpg">
+<img src="img/91f44bc233f6e65f0c8df54596b77fce.jpg">
 </div>
 <div align=center>《转法轮》中的《论语》在Byreshawara学校英文版的教材中。（明慧网）</div></P>
 
 2019年7月6日上午，印度中部城市纳格普（Nagpur）的法轮功学员来到申德惹韦尔斯（St. Xavier’s High School）中学介绍法轮功。该校有2,000多名师生员工。</P>
 
 <div align=center>
-<img src="images/2019-7-18-204443-0-600x377.jpg">
+<img src="img/2019-7-18-204443-0-600x377.jpg">
 </div>
 <div align=center>印度纳格普市申德惹韦尔斯中学的初中、高中部的学生们学炼法轮功功法。（明慧网）</div></P>
 
@@ -453,12 +453,12 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 2019年6月18日，印度南部城市班加罗尔（Banglore）的法轮功学员拜访了班加罗尔市北部的小城市钦塔姆尼（Chintamni），那里有一所骄狄英语中学，该校的师生们修炼法轮功。</P>
 
 <div align=center>
-<img src="images/2019-6-30-mh-india-spreadfa-01-600x417.jpg" width="580">
+<img src="img/2019-6-30-mh-india-spreadfa-01-600x417.jpg" width="580">
 </div>
 <div align=center>骄狄英语中学入口右墙上有醒目的镶金英文大字“法轮大法好”，下面是“真、善、忍”。（明慧网）</div></P>
 
 <div align=center>
-<img src="images/2019-6-30-mh-india-spreadfa-02.jpg" width="580">
+<img src="img/2019-6-30-mh-india-spreadfa-02.jpg" width="580">
 </div>
 <div align=center>骄狄英语中学全校600多名师生集体炼法轮功功法。（明慧网）</div></P>
 
@@ -472,7 +472,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 【明慧网二零一八年四月十四日】二零一八年四月十一日，德国西部报纸《鲁尔日报》以整版报道法轮功学员在丽波公园的集体炼功，并以“丽波公园亮丽的一幕”为开篇，将采访五名法轮功学员的视频报道发布在《鲁尔日报》绿嫩市的网页上。
 
 <div align=center>
-<img src="images/2018-4-13-101.jpg">
+<img src="img/2018-4-13-101.jpg">
 </div>
 <div align=center>德国西部报纸《鲁尔日报》整版报道法轮功学员在丽波公园的集体炼功，并采访报道了五名法轮功学员。</div></P>
 
@@ -522,7 +522,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 1993年8月，中国公安部中华见义勇为基金会发出《中华人民共和国公安部致中国气功科学研究会感谢信》，对法轮功创始人李洪志先生及法轮功的神奇祛病健身功效给予高度肯定。</P>
 
 <div align=center>
-<img src="images/3231950.jpg"width=550>
+<img src="img/3231950.jpg"width=550>
 </div>
 1998年9月，国家体育总局抽样调查12553位法轮功学员，祛病健身总有效率高达97.9%，每年节约2100万元医药费。以乔石为首的部份人大离退休老干部对法轮功进行详细调查和研究，最后得出“法轮功于国于民有百利而无一害”的结论。</P>
 
@@ -542,7 +542,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 1995年3月13日李洪志大师受中国驻法大使馆的邀请，在巴黎中使馆文化处举行讲法报告会及第一场海外法轮功学习班，法轮功正式走向海外。同年4月14日李洪志大师来到瑞典歌德堡举办第二场海外法轮功学习班。法轮功洪传遍及五大洲114个国家和地区。</P>
 
 <div align=center>
-<img src="images/shifu-03.jpg"width=550>
+<img src="img/shifu-03.jpg"width=550>
 </div>
 在美国和加拿大有成千上万的人修炼法轮功。美国50个州中有47个州有法轮功炼功点，修炼者大多是拥有博士、硕士学位的科学家、工程师、教授或研究生。在南美洲有秘鲁、古巴、墨西哥、巴西等18个国家有炼功点。在欧洲有英国、法国、德国等34个国家有法轮功炼功点，修炼者大多是西方人。非洲有南非、埃及、刚果等12个国家都有法轮功炼功点。在大洋洲，法轮大法炼功点遍布澳大利亚、新西兰、巴布亚新几内亚各大城市。在亚洲，除中国外有31个国家与地区民众学炼法轮功，包括韩国、日本、印度、泰国、台湾、香港等地。</P>
 在印度有超过80所学校的师生在体育课上集体炼法轮功，印度Byreshawara学校将《转法轮》中的〈论语〉英文版列入教材，并放在书本的最前面。</P>
@@ -553,22 +553,22 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 法轮功洪传全世界，为各地社会带来可喜的变化，因此受到各地民众和政府的热烈欢迎。法轮大法造福人类，被称为“高德大法”。国际社会为表彰李洪志先生和法轮大法对人类身心健康所作出的杰出贡献，至今获得来自全球褒奖1943份，395项支持议案，1200封支持信函。昭显其超越种族、语言与国界的巨大道德感召。</P>
 
 <div align=center>
-<img src="images/42061673.jpg"width=550>
+<img src="img/42061673.jpg"width=550>
 </div>
 法轮大法像一股清流，从中国流传出在海外蓬勃发展。大法所提倡的“真善忍”被许多国家的有识之士视为全人类的共同行为规范和道德基石。许多西方人诚挚地说：“法轮大法属于全世界，世界需要真、善、忍。”并纷纷向法轮大法修炼者表示敬意，认为法轮功学员才是世界的希望和未来。</P>
 <hr>
 <div align=center>
-<img src="images/taibeipaizi-02.jpg"width=550>
+<img src="img/taibeipaizi-02.jpg"width=550>
 </div>
 <div align=center>台湾六千多名法轮功学员于排字结束后举行集体大炼功</div>
 <hr>
 <div align=center>
-<img src="images/081813.jpg"width=550>
+<img src="img/081813.jpg"width=550>
 </div>
 <div align=center>印度德里警校千名学生学炼法轮功</div>
 <hr>
 <div align=center>
-<img src="images/sco-05.jpg"width=550>
+<img src="img/sco-05.jpg"width=550>
 </div>
 <div align=center>四百多名法轮功学员在旧金山市府前排字炼功</div>
 <hr>
@@ -577,23 +577,23 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 【明慧网二零一八年七月二十九日】二零一八年七月二十二日，法轮功学员参加了在加拿大多伦多举办的青年日庆祝活动，吸引了很多民众前来了解功法。</p>
 
 <div align=center>
-<img src="images/2018-7-28-day_01--ss.jpg"width=550>
+<img src="img/2018-7-28-day_01--ss.jpg"width=550>
 </div>
 
 <div align=center>
-<img src="images/2018-7-28-day_02--ss.jpg"width=550>
+<img src="img/2018-7-28-day_02--ss.jpg"width=550>
 </div>
 
 <div align=center>
-<img src="images/2018-7-28-day_03--ss.jpg"width=550>
+<img src="img/2018-7-28-day_03--ss.jpg"width=550>
 </div>
 
 <div align=center>
-<img src="images/2018-7-28-day_04--ss.jpg"width=550>
+<img src="img/2018-7-28-day_04--ss.jpg"width=550>
 </div>
 
 <div align=center>
-<img src="images/2018-7-28-day_05--ss.jpg"width=550>
+<img src="img/2018-7-28-day_05--ss.jpg"width=550>
 </div>
 
 <div align=center>图1～5：法轮功学员参加在加拿大多伦多举办的青年日庆祝活动，向民众介绍功法。</div>
@@ -601,11 +601,11 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 青年日是非营利的社区活动，有众多的志愿者参与。活动当天在市中心丹达什广场（Dundas Square）的中央舞台有文艺表演，法轮功学员在舞台上向各界民众讲解并演示了法轮功功法，学员们还在自己的展位上向往来的游客介绍功法，并向民众征签，呼吁制止中共对法轮功的迫害。
 </p>
 <div align=center>
-<img src="images/2018-7-28-day_06--ss.jpg"width=550>
+<img src="img/2018-7-28-day_06--ss.jpg"width=550>
 </div>
 
 <div align=center>
-<img src="images/2018-7-28-day_07--ss.jpg"width=550>
+<img src="img/2018-7-28-day_07--ss.jpg"width=550>
 </div>
 <div align=center>图6～7：在加拿大多伦多举办的青年日庆祝活动上，民众现场学炼法轮功。</div>
 </p>
@@ -618,14 +618,14 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 前来参加青年日活动的游客中有当地的，还有来自英国、荷兰、墨西哥等地的，他们听取法轮功学员的介绍后拿走了相关资料，以便进一步了解。有很多游客还当场跟学员学炼了功法。
 
 <div align=center>
-<img src="images/2018-7-28-day_08--ss.jpg"width=550>
+<img src="img/2018-7-28-day_08--ss.jpg"width=550>
 </div>
 <div align=center>珍尼特（Jannet）母女学炼法轮功</div>
 </p>
 法轮功学员向珍尼特（Jannet）母女介绍了法轮功的基本情况。她们希望学员可以教她们如何炼功，在学炼了第一套功法后，她们表示感觉很好。
 </p>
 <div align=center>
-<img src="images/2018-7-28-day_09--ss.jpg"width=550>
+<img src="img/2018-7-28-day_09--ss.jpg"width=550>
 </div>
 <div align=center>密西沙加市的艾利克斯（Alex）先生想学炼法轮功</div>
 </p>
@@ -644,37 +644,37 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 【明慧网二零一九年五月二日】（明慧记者王英美国旧金山湾区佛利蒙市报道）二零一九年四月三十日晚，旧金山湾区佛利蒙市（Fremont）的法轮功学员在中央图书馆举办免费教功班。当天，有几十位新学员参加了教功班。他们中有华人、越南裔、西人、伊朗人、印度裔等不同族裔的人。很多人学功后表示，感到身心放松，精力充沛，非常喜欢，将会继续学炼下去。</p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-01--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-01--ss.jpg"width=550>
 </div>
 <div align=center>图1：新学员在观看教功录像。</div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-02--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-02--ss.jpg"width=550>
 </div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-03--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-03--ss.jpg"width=550>
 </div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-04--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-04--ss.jpg"width=550>
 </div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-05--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-05--ss.jpg"width=550>
 </div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-06--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-06--ss.jpg"width=550>
 </div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-07--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-07--ss.jpg"width=550>
 </div>
 <div align=center>图2～7新学员在学功。</div></p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-08--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-08--ss.jpg"width=550>
 </div>
 <div align=center>图8：来自广东的司徒维荣表示，他知道炼法轮功肯定会身体好。</div></p>
 
@@ -713,7 +713,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 他表示，会上网查询有关信息，“我绝对会继续炼下去。”</p>
 
 <div align=center>
-<img src="images/2019-5-1-mh-northcalifornia-09--ss.jpg"width=550>
+<img src="img/2019-5-1-mh-northcalifornia-09--ss.jpg"width=550>
 </div>
 <div align=center>图9：硅谷电脑工程师阿尼什·巴博尔（左）和法轮功学员合影。</div></p>
 
@@ -728,19 +728,19 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 【明慧网二零一九年五月十七日】（明慧记者李晓纽约采访报道）二零一九年五月十六日，来自世界各地的约万名法轮大法修炼者齐聚在美国纽约的联合国公园，庆祝世界法轮大法日。他们怀着喜悦的心情，身着节日盛装，在天国乐团演奏的《法轮大法好》乐曲声中行进在曼哈顿的中心街道上，欢庆第二十届“世界法轮大法日”、法轮大法弘传二十七周年。喜庆的场面吸引了众多的民众驻足观看。</p>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-01.jpg"width=550></div></p>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-01.jpg"width=550></div></p>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-02--ss.jpg"width=550></div></p>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-02--ss.jpg"width=550></div></p>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-03--ss.jpg"width=550></div></p>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-03--ss.jpg"width=550></div></p>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-04--ss.jpg"width=550></div></p>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-04--ss.jpg"width=550></div></p>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-05--ss.jpg"width=550></div>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-05--ss.jpg"width=550></div>
 <div align=center>图1～5：各族裔法轮功学员身着民族服饰参加在纽约曼哈顿的盛大游行。</div></p>
 
 在这浩荡的游行队伍中，一些来自欧洲的法轮大法学员身着传统民族服饰，特别引人注目。其中的几位学员交流了他们为何如此盛装来到这里。</p>
@@ -748,7 +748,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>修炼后心神宁静 与父母矛盾荡然无存</b><br/>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-06--ss.jpg"width=550></div>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-06--ss.jpg"width=550></div>
 <div align=center>图6：来自西班牙的桑灼·福罗拉斯（Sandra Flores）说，法轮大法充满神奇。</div></p>
 
 桑灼·福罗拉斯（Sandra Flores）是一位来自西班牙的记者。她从二零零六年开始修炼法轮功，到现在已有十三年了。她表示，自己遇到法轮大法的经历有点神奇。她说：“有一次，我的一位朋友收到一张传单，对我说：‘这看起来很不错，让我们一起炼炼试试吧。’于是我们就这样开始了。然后我看了《转法轮》这本书，法轮大法的法理帮助我找到了我人生中的所有答案。”</p>
@@ -762,7 +762,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>法轮大法让人充满希望</b><br/>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-07--ss.jpg"width=550></div>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-07--ss.jpg"width=550></div>
 <div align=center>图7：来自瑞典的克里斯汀·尼尔森（Christian Nilsson）。</div></p>
 
 克里斯汀·尼尔森（Christian Nilsson）来自瑞典，是一位环保工程师。今天他穿上了瑞典的传统服饰、手举瑞典国旗参加了游行。修炼法轮大法前，他曾对社会很失望，因此还选择了环境保护专业准备拯救地球。但他在二零零零年开始修炼后感到，法轮大法能让人去掉不好的想法，让人充满希望。</p>
@@ -776,7 +776,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>把“真善忍”的法理传给孩子</b><br/>
 
 <div align=center>
-<img src="images/2019-5-17-mh-ny-parade-ethnicity-08--ss.jpg"width=550></div>
+<img src="img/2019-5-17-mh-ny-parade-ethnicity-08--ss.jpg"width=550></div>
 <div align=center>图8：来自瑞士的德妮丝·艾尔芙瑶登（Denise Alfjorden）</div></p>
 
 德妮丝·艾尔芙瑶登（Denise Alfjorden）是瑞士人，她今天穿着母亲亲手制作的传统服装来参加游行。修炼了九年的她回忆起得法的经历充满了幸福感。</p>
@@ -797,7 +797,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 
 <b>修大法，学会了宽容忍让</b><br/>
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_01--ss.jpg"width=550>
+<img src="img/2019-5-23-nyc-fahui-interviews_01--ss.jpg"width=550>
 </div>
 <div align=center>图1：修炼大法，卡琳（Karin）学会了宽容忍让</div>
 </P>
@@ -815,7 +815,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>从怀疑到真修</b><br/>
 
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_02--ss.jpg.png"width=550>
+<img src="img/2019-5-23-nyc-fahui-interviews_02--ss.jpg.png"width=550>
 </div>
 <div align=center>图2：肯尼斯·金（Kenneth Kim）的改变使得妻子跟随他一起在大法中修炼</div>
 </P>
@@ -831,7 +831,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>修大法　变得健康有耐心</b><br/>
 
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_03--ss.jpg"width=550>
+<img src="img/2019-5-23-nyc-fahui-interviews_03--ss.jpg"width=550>
 </div>
 <div align=center>图3：快乐健康的汤姆修炼大法十八年，变得健康有耐心。</div>
 </P>
@@ -851,7 +851,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>病魔缠身后重回大法修炼的经历</b><br/>
 
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_04--ss.jpg.png"width=550>
+<img src="img/2019-5-23-nyc-fahui-interviews_04--ss.jpg.png"width=550>
 </div>
 <div align=center>图4：帕崔克（Padraig Seosamh o Dalaigh）病后重返大法修炼，通过学法炼功身体得以康复。</div>
 </P>
@@ -873,13 +873,13 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 
 <hr>
 <div align=center>
-<img src="images/圖片 11.jpg" width=550>
+<img src="img/圖片 11.jpg" width=550>
 </div>
 <hr>
 <h2 align="center"><a href="https://?raw=true">天津塘沽大爆炸幸运脱险</a></h2>
 
 <div align=center>
-<img src="images/5292403.jpg"width=550>
+<img src="img/5292403.jpg"width=550>
 </div>
 
 河北省无极县的一个司机2015年8月12日晚上开车来到南方一家化学公司拉货，装上物资出门检查时发现装错了货，只好又卸下来重装，这样耽误两个小时的行程。当时他还想不通：“怎么会装错呢？我拉货多年来这还是第一次。”</P>
@@ -900,7 +900,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <h2 align="center"><a href="https://?raw=true">台湾火灾毁8栋楼 悬挂法轮大法横幅房屋完好</a></h2>
 
 <div align=center>
-<img src="images/9062378.jpg"width=550>
+<img src="img/9062378.jpg"width=550>
 </div>
 <div align=center>三重区大火现场，火灾截止点就在接近横幅处。</div>
 </P>
@@ -911,7 +911,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <h2 align="center"><a href="https://?raw=true">死里逃生后的感悟</a></h2>
 
 <div align=center>
-<img src="images/5209-600x423.jpg"width=550>
+<img src="img/5209-600x423.jpg"width=550>
 </div>
 <div align=center>生生世世业无边 渊源善解方重生</div>
 </P>
@@ -1038,7 +1038,7 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 <hr>
 
 <div align=center>
-<a href="https://git.io/dadakk"><img src="images/b-800.jpg"></a>
+<a href="https://git.io/dadakk"><img src="img/b-800.jpg"></a>
 
 <h3>他们的改变来自法轮大法  https://git.io/dadakk </h3></div>
 </P>
@@ -1189,6 +1189,6 @@ B牢头也因为善待大法和大法弟子而得了福报。当时全国开展�
  
  
 <div align=center>
-<img src="images/plant.jpg">
+<img src="img/plant.jpg">
 </div>
 
