@@ -987,50 +987,50 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 
 <tr>
  
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-30-14.mp3?raw=true"><img 
-src="https://github.com/sodore/dsds/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-30-14.mp3?raw=true"><img 
+src="https://github.com/mingop/f6f6dw/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-41-27.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-41-27.mp3?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-31-28.mp3?raw=true"><img 
-src="https://github.com/sodore/dsds/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-31-28.mp3?raw=true"><img 
+src="https://github.com/mingop/f6f6dw/blob/master/img/radio-1.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
  
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-30-14.mp3?raw=true">【修炼故事：昔日江湖亡命汉-今日正道大法徒】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-30-14.mp3?raw=true">【修炼故事：昔日江湖亡命汉-今日正道大法徒】</a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-41-27.mp3?raw=true">【修炼故事：修炼法轮功身心受益——高知篇】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-41-27.mp3?raw=true">【修炼故事：修炼法轮功身心受益——高知篇】</a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-31-28.mp3?raw=true">【修炼故事：法轮大法真的能使人变好】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/audio/xlgsss-31-28.mp3?raw=true">【修炼故事：法轮大法真的能使人变好】</a></td>
 </tr>
 
 
 <tr>
  
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/img/90652414-1.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/falun-274642.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/90652414-1.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/img/532100-22.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/FaLun_P615660.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/532100-22.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
-src="https://github.com/sodore/dsds/blob/master/img/532100-1.png" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
+src="https://github.com/mingop/f6f6dw/blob/master/img/532100-1.png" width="265"  border="0" alt=""></a></td>
 </tr>
 
  
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"> 点击下载视频:【什么是法轮大法】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/falun-274642.mp4?raw=true"> 点击下载视频:【什么是法轮大法】</a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
 </tr>
 
 </table>
