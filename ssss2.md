@@ -1,18 +1,18 @@
 
 <div align=center>
-<img src="images/2018-06-29_21475-1.jpg" width=880>
+<img src="img/2018-06-29_21475-1.jpg" width=880>
 <h2><b>翻墙必看 视频 http://220.141.134.231 </h2></b>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h1></div>
 
 
 
 <div align=center>
-<a href="https://github.com/sodore/dsdsa/blob/master/video/video_720ps.mp4?raw=true"><img src="images/2019-04-13_145013.jpg" width=880></a></div></p>   
+<a href="https://github.com/mingop/f6f6dw/blob/master/video/video_720ps.mp4?raw=true"><img src="img/2019-04-13_145013.jpg" width=880></a></div></p>   
 
-<h3 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/video_720ps.mp4?raw=true">► 点击下载视频» 18年前天安门那场大戏 为“秘密群体灭绝”开道 .mp4 </a></h3>
+<h3 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/video/video_720ps.mp4?raw=true">► 点击下载视频» 18年前天安门那场大戏 为“秘密群体灭绝”开道 .mp4 </a></h3>
 
 <div align=center>
-<img src="images/2019-04-03_215657-1.jpg" width=880></div></p>  
+<img src="img/2019-04-03_215657-1.jpg" width=880></div></p>  
 
 
 <table>
@@ -160,7 +160,7 @@
 当天美国国会31位参、众议员致信声援法轮功学员。他们对法轮功学员坚守的理念和所做的一切努力表示赞赏和敬意，并强烈谴责中共对法轮功的迫害，呼吁结束迫害。#
 
 <div align=center>
-<img src="images/1806201535261973-600x400-600x400.jpg">
+<img src="img/1806201535261973-600x400-600x400.jpg">
 </div>
 <div align=center> 2018年6月20日至22日，近万名来自世界各地的部分法轮功学员在美国首都华盛顿DC举行集会，政要到场支持。（大纪元） </div>
 
@@ -177,7 +177,7 @@
   <tr>
    <td>
      <div align=center>
-<img src="images/2019-04-05_204457-1.jpg" width=880>
+<img src="img/2019-04-05_204457-1.jpg" width=880>
 </div>
 	</p>   
  <h4> ■ 2001年，在中国大地上，中共对法轮功的迫害正腥风血雨般地展开着。当年的1月23日，在这个家家团圆的除夕夜，天安门广场发生了震惊世界的“自焚”案。中共官方在第一时间宣称事件是法轮功学员所为。虽然各项证据都表明，事件是中共的“自编自演”，但中央电视台等官媒铺天盖地的报导，挑起了民众对法轮功的仇恨情绪。
@@ -192,7 +192,7 @@
   </tr>
   </table>
  
- <h2 align=center><a href="https://git.io/waaa">下面请看来自各方对事件疑点的分析汇总。</a></h2>
+ <h2 align=center><a href="https://git.io/">下面请看来自各方对事件疑点的分析汇总。</a></h2>
  
  <table> 
 <tr><td> ◆ 为什么自焚者王进东面容烧毁，头发和装满汽油的塑料瓶却完好无损？ </tr></td>
@@ -210,47 +210,47 @@
  <p></p>
  
  <div align=center>
- <img src="images/1-728.jpg" width=200><img src="images/1-728-2.jpg" width=200></div>
+ <img src="img/1-728.jpg" width=200><img src="img/1-728-2.jpg" width=200></div>
   <p></p>
 <div align=center>
-<img src="images/maxresdefault (2).jpg" width=880>
+<img src="img/maxresdefault (2).jpg" width=880>
 </div>
  <p></p>
          
 <div align=center>
-<img src="images/1407101314002639-600x400.jpg" width=580>
+<img src="img/1407101314002639-600x400.jpg" width=580>
 </div>
 <div align=center>▲ 2002年1月，北美中文电视台“新唐人”制作了揭露“天安门自焚”真相的影片《伪火》（False Fire），该片从各国参赛的600多部影片中脱颖而出，于2003年11月8日获得第51届哥伦布国际电影电视节荣誉奖，该纪录片揭开了“自焚案”部分漏洞。（大纪元资料室）</div>
  <p></p>
  
  <div align=center>
-<img src="images/MZX-GIF.gif" width=580>
+<img src="img/MZX-GIF.gif" width=580>
 </div>
  <p></p>
  <hr>
 <h2 align=center> <a href="https://git.io/ykkk"> ■ 气管切开还能唱歌 明显违反医学常识</a></h2>
 <div align=center>
-<img src="images/1110302221042214-600x400.jpg" width=580>
+<img src="img/1110302221042214-600x400.jpg" width=580>
 </div>
 <div align=center>▲ 刘思影全身烧伤面积达40%，头、面部四度烧伤，双眼睑外翻，呼吸困难，颜面、双手基本毁损。根据医学常识，大面积烧伤病人要住隔离病房，而且做了气管切开手术的病人根本无法正常说话。探视者需穿戴隔离衣帽、手套、鞋套。在央视播放的自焚画面中，医生称“自焚”女孩刘思影做了气管切开手术，可是术后仅四天，却声音清脆地接受采访，还能唱歌，被海外医学界人士戏称中央电视台“创造了医学奇迹”。央视记者不穿隔离衣，不戴口罩帽子，直接近距离采访，这完全违反了医学常识。大面积烧伤病人，她的创面，要尽量的暴露，因为裹得太严实了，护士换药、清创非常的麻烦而且很容易造成创面的化脓感染。中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，完全违反了医学常识。（视频截图）</div>
 	
  <p></p>
 
 <div align=center>
-<img src="images/n3613031_3.jpg" width=580>
+<img src="img/n3613031_3.jpg" width=580>
 </div>
  <p></p>
  <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 衣服烧烂，头发却耐火？人被严重烧伤了 雪碧瓶却完好无损</a></h2>
 <div align=center>
-<img src="images/2013-6-5-zifen-2.jpg" width=580>
+<img src="img/2013-6-5-zifen-2.jpg" width=580>
 </div>
  <div align=center>▲ 警察晃着灭火毯等镜头，“自焚者”王进东两腿间盛着汽油的雪碧瓶，在火焰中竟然完好翠绿无损；头发最容易被火燎，但是画面中王进东棉衣裤子烧烂，头发还完好。（视频截图）</div>
 		
 <p></p>
  
  <div align=center>
-<img src="images/1310281753432120.jpg" width=580>
+<img src="img/1310281753432120.jpg" width=580>
 </div>
 <div align=center>▲ 上图为中共“天安门自焚”伪案现场图片。汽油燃烧，火温可达500 度以上，这样的高温中，王进东却能稳坐不动，头发也没烧坏。警察拎着灭火毯，在他身后等着，直到他在镜头前喊完口号才把灭火毯盖他身上。这不是演戏又是啥？（视频截图）</div>
 	
@@ -259,21 +259,21 @@
  <hr>
   <h2 align=center> <a href="https://git.io/ykkk">■ 天安门警察背着灭火器巡逻？</a></h2>
  <div align=center>
-<img src="images/2003-8-19-zifen_spot.jpg" width=580>
+<img src="img/2003-8-19-zifen_spot.jpg" width=580>
 </div>
  <div align=center>▲ 澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
   <p></p>
  <hr>
   <h2 align=center> <a href="https://git.io/ykkk">■ 谁是画面外的摄影师？</a></h2>
  <div align=center>
-<img src="images/1310292039482120.jpg" width=580>
+<img src="img/1310292039482120.jpg" width=580>
 </div>
  <div align=center>▲ 图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</div>
   <p></p>
   <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 女主角被当场灭口？</a></h2>
 <div align=center>
-<img src="images/zifengif-lcl.gif" width=580>
+<img src="img/zifengif-lcl.gif" width=580>
 </div>
  <div align=center>▲ 让录像说话：假冒法轮功学员自焚的刘春铃被不明人士当场灭口<p></p>
 从中央电视台《焦点访谈》节目中关于自焚的现场录像可以看到，有一名身穿大衣的男子手持一重物，用力向死者刘春玲的头部击打，导致刘春玲急速倒地，并用手护卫被打的左侧头部。追查国际有理由认为刘春玲极有可能是在现场被打死，而非被烧死。现场这一名身穿军大衣的男子很明显不是在参与救人，而是要置刘春玲于死地！
@@ -284,13 +284,13 @@
 <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 自焚的王进东是法轮功学员吗？</a></h2>
 <div align=center>
-<img src="images/zifen-en.jpg" width=580>
+<img src="img/zifen-en.jpg" width=580>
 </div>
  <div align=center>▲ 自称“老学员”的王进东竟然不会双盘腿。</div>
  <p></p>
 
 <div align=center>
-<img src="images/jieyin-3.jpg" width=580>
+<img src="img/jieyin-3.jpg" width=580>
 				       
 </div>
  <div align=center>▲ 王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</div>
@@ -299,9 +299,9 @@
  <table>
   <tr>
  <td width=880> <div align=center>
-<img src="images/96ec4d.jpg" width=380>
+<img src="img/96ec4d.jpg" width=380>
 </div>
-  <h3 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">► 请观看录像：追查国际“天安门自焚疑案”调查纪实 .mp4 下載</a></h3>
+  <h3 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">► 请观看录像：追查国际“天安门自焚疑案”调查纪实 .mp4 下載</a></h3>
 </td>
 
 </tr>
@@ -410,7 +410,7 @@
 
 <hr>
 <div align=center>
-<img src="images/2018-07-09_163328.jpg" width=880>
+<img src="img/2018-07-09_163328.jpg" width=880>
 </div>
  <p></p>
  
@@ -425,13 +425,13 @@
 
 <h2 align="center"><a href="https://git.io/waaa">法轮功祛病健身效果</a></h2> 
 <div align=center>
-<img src="images/02-park.jpg" width=580>
+<img src="img/02-park.jpg" width=580>
 </div>
 
 法轮功是李洪志先生于一九九二年五月传出的一种佛家上乘修炼大法，因为其教人修心向善和神奇的祛病健身功效迅速传遍中国，并传播到海外，修炼人数迅速增长。一九九八年国家体育总局组织北京、武汉、大连及广东省的医学专家，对近三万五千名法轮功学员做了五次医学调查，证明了法轮功祛病健身有效率高于百分之九十八。
 
 <div align=center>
-<img src="images/02-r-chart.jpg" width=580>
+<img src="img/02-r-chart.jpg" width=580>
 </div>
 <hr>
 
@@ -451,7 +451,7 @@
 </p>
 <h6 align="right"> <a href=#3>阅读全文</h6></a>
 <div align=center>
-<img src="images/03-1400n.jpg" width=580>
+<img src="img/03-1400n.jpg" width=580>
 </div>
 
 <hr>
@@ -472,7 +472,7 @@
 <h6 align="right"> <a href=#6>阅读全文</h6></a>
 <p></p>
 <div align=center>
-<img src="images/02-min-shi-pan-jue-shu.jpg" width=580>
+<img src="img/02-min-shi-pan-jue-shu.jpg" width=580>
 </div>
 <hr>
 <a name=top7><h3 align="center"><b><a href=#7>案例七：哈尔滨市第四医院诱骗李淑贤栽赃</a></b></h3>
@@ -523,7 +523,7 @@
 <table>
   <tr>
  <td> <div align=center>
-<img src="images/2018-04-20_154812.jpg" width=400>
+<img src="img/2018-04-20_154812.jpg" width=400>
 </div>
 <h4>■ “翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h4></td>  
 </tr>
@@ -535,11 +535,11 @@
 <hr>
 
 <div align=center>
-<img src="images/425.jpg" width=880>
+<img src="img/425.jpg" width=880>
 </div>
 <p></p>
 <div align=center>
-<img src="images/imgc17e5a51ab50.jpg" width=580>
+<img src="img/imgc17e5a51ab50.jpg" width=580>
      
 </div>
 
@@ -576,7 +576,7 @@
 
  <p></p> 
 <div align=center>
-<img src="images/4.25truth.jpg" width=680>
+<img src="img/4.25truth.jpg" width=680>
 </div>
 <div align=center>▲ 上访群众都在街道一边，中南海一边是一个人都没有，根本不存在什么‘围攻’</div>
 <p></p>
@@ -586,7 +586,7 @@
  <td> 
    <h3 align=center><a href="https://git.io/tr">四•二五上访的直接原因：天津警察抓人打人，拒不放人</a></h3>
    <div align=center>
-<img src="images/425_april25_peaceful_appeal_03.jpg" width=580>
+<img src="img/425_april25_peaceful_appeal_03.jpg" width=580>
 </div>
    
    一九九九年四月十一日，当时的中共政法委书记罗干的连襟何祚庥在天津教育学院办的《青少年科技博览》杂志上发表文章，无中生有诋毁法轮功。四月十八日至二十四日，部分天津法轮功学员前往天津教育学院及相关机构反映实情。四月二十三日、二十四日，中共政法委书记罗干命令天津市当局出动防暴警察三百多名，驱散并殴打澄清事实的法轮功学员，并逮捕了四十五名法轮功学员。法轮功学员到天津市政府要求放人，被告知：公安部介入了这个事件，你们去北京才能解决问题。
@@ -647,16 +647,16 @@
  <table>
   <tr>
  <td width=880> <div align=center>
-<img src="images/mhradio-header.jpg" width=480>
+<img src="img/mhradio-header.jpg" width=480>
 </div>
-<h3 align=center> <a href='https://github.com/sodore/dsdsa/blob/master/video/zxcs_425_1_20090424_24343.mp3?raw=true'>► 请收听 1999年4月25日万名法轮功学员上访 .mp3 </a></h3></td>
+<h3 align=center> <a href='https://github.com/mingop/f6f6dw/blob/master/video/zxcs_425_1_20090424_24343.mp3?raw=true'>► 请收听 1999年4月25日万名法轮功学员上访 .mp3 </a></h3></td>
 
 </tr>
 </table>
 <p></p>
 <hr>
  <div align=center>
-<img src="images/2018-4-23-mh-newyork-425-parade-10--ss.jpg" width=580>
+<img src="img/2018-4-23-mh-newyork-425-parade-10--ss.jpg" width=580>
 </div>
 
 <p></p>
@@ -675,7 +675,7 @@
 中共江泽民集团发动的对法轮功修炼者的迫害，将全中国拖入无边的黑暗。正直善良的公民被剥夺了说话的权利，成为被严厉镇压的对象。他们的基本人权被肆意侵犯，被虐杀凌辱，冤屈无处申诉。他们的家庭成员也受到无情的冲击和株连，个体与家庭的悲剧在大陆发生、蔓延，汇成整个社会的人权灾难。</p>
 </p>
 <div align=center>
-<img src="images/bb-231.jpg" width=480 >
+<img src="img/bb-231.jpg" width=480 >
 </div>
 
 <div align=center>每一个听闻此事的人，都会扪心自问：善恶是非面前，我该站在哪一边？</div></p>
@@ -687,7 +687,7 @@
   <tr>
 <td>
 	<div align=center>
-<img src="images/2018-05-27_214306.jpg" width=880 >
+<img src="img/2018-05-27_214306.jpg" width=880 >
 </div>
 </tr>
 </td>
@@ -708,9 +708,9 @@
 <table>
 <tr>
 <td width=880 ><div align=center>
-<img src="images/2018-07-12_234725.jpg" width=400>
+<img src="img/2018-07-12_234725.jpg" width=400>
 </div>
- <h3 align=center><a href='https://github.com/sodore/dsdsa/blob/master/video/goodr2-s.mp4?raw=true'>► 一个曾经恶毒毁谤过大法的人含泪写下,一个佛教徒深深的忏悔 .mp4 下载 </a></h3>
+ <h3 align=center><a href='https://github.com/mingop/f6f6dw/blob/master/video/goodr2-s.mp4?raw=true'>► 一个曾经恶毒毁谤过大法的人含泪写下,一个佛教徒深深的忏悔 .mp4 下载 </a></h3>
 	
  <h3 align=center> <a href="https://git.io/tr">一个佛教徒深深的忏悔</a></h3>
 
@@ -811,7 +811,7 @@
 近年中国民众制止迫害之声也持续不绝，与迫害初期的不敢吱声迥然不同。二零一二年二月二十五日，因修炼法轮功的王晓东被非法抄家、绑架、抢劫及抓捕，河北省沧州地区泊头市富镇周官屯村全村三百户各派一名代表在呼吁书上签名，要求市检察院释放王晓东，此联合签名按手印的请愿书引起中共中央政治局的震动。
 
  <div align=center>
-<img src="images/2012-6-20-cmh-mainland-signature-02.jpg" width=580>
+<img src="img/2012-6-20-cmh-mainland-signature-02.jpg" width=580>
 </div>
  <div align=center>▲ 河北省泊头市富镇周官屯村三百多户村民联名按手印、加盖公章要求释放法轮功学员王晓东，撼动中共中央政治局。</div>
 <hr>
@@ -820,19 +820,19 @@
 二零一二年六月七日，河北省正定县法轮功学员李兰奎被“六一零”人员绑架到正定县看守所，再被转到石家庄市洗脑班关押迫害。中共警察肆意迫害好人的恶行，引发了正定县很多百姓的强烈不满，七百多位民众集体自发联名声援营救被绑架的李兰奎。
 
  <div align=center>
-<img src="images/2012-7-25-zd-lmx2.jpg" width=580>
+<img src="img/2012-7-25-zd-lmx2.jpg" width=580>
 </div>
 
 <hr>
 <h3 align=center><a href="https://git.io/tr">大规模民众联名上书，声援营救法轮功学员</a></h3>
 大规模民众联名上书这样的事件在中国越来越多，河北唐海县五百六十二位村民按手印，支持释放法轮功学员郑祥星；黑龙江则有一万五千民众为素不相识的法轮功学员挺身而出，站出来支持当地替父鸣冤的秦荣倩，在她的《喊冤昭雪书》上签名并按上大红手印。秦荣倩的父亲秦月明，因坚持信仰法轮功而被当局关在监狱中酷刑折磨致死。
 <div align=center>
-<img src="images/2012-6-20-cmh-mainland-signature-01.jpg" width=580>
+<img src="img/2012-6-20-cmh-mainland-signature-01.jpg" width=580>
 </div>
 <div align=center>▲ 黑龙江省有超过一万五千民众为素不相识的法轮功学员挺身而出，在替父鸣冤的秦荣倩的《喊冤昭雪书》上签名并按上大红手印</div>
 </p>
  <div align=center>
-<img src="images/2018-05-20_112748.jpg" width=680>
+<img src="img/2018-05-20_112748.jpg" width=680>
 </div>
 <div align=center>▲ 全球逾百万民众签名要求制止中共迫害法轮功</div>
 <hr>
@@ -849,12 +849,12 @@
   <table>
   <tr>
  <td> <div align=center>
-<img src="images/img85cd19d1beca.jpg" width=400>
+<img src="img/img85cd19d1beca.jpg" width=400>
 </div>
  
 <h4>■ 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。</p>
 <a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>► 1.请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub</p></a>
-<a href='https://github.com/sodore/dsdsa/blob/master/epub/hgty48.epub?raw=true'>► 2.请下载【 让法官傻眼的办证词 】.epub </a></h4></p>
+<a href='https://github.com/mingop/f6f6dw/blob/master/epub/hgty48.epub?raw=true'>► 2.请下载【 让法官傻眼的办证词 】.epub </a></h4></p>
 
 </td>
  
@@ -863,15 +863,15 @@
 
 <table>
 <tr>
-<td> 手机版ePub电子书，推荐使用 Reasily-EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
+<td> 手机版ePub电子书，推荐使用 Reasily-EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  		
 </td></tr>
 </table>
 <hr>
 
 <div align=center>
-<img src="images/2018-4-7-3yi_21.jpg" width=580>
+<img src="img/2018-4-7-3yi_21.jpg" width=580>
 </div>
 
 <h2 align=center><a href="https://git.io/waaa">北加州教功班 学功者挤满大会议室</a></h2>
@@ -879,17 +879,17 @@
 【明慧网二零一八年七月十二日】（明慧记者王英美国加州佛利蒙采访报道）七月十日星期二晚，北加州佛利蒙图书馆（Fremont Library）的大会议室依然灯火通明，人们在聚精会神的学习提高身心健康的性命双修功法──法轮功。
 
 <div align=center>
-<img src="images/2018-7-11-fremont-02.jpg" width=580>
+<img src="img/2018-7-11-fremont-02.jpg" width=580>
 </div>
 <div align=center> 学员在图书馆入口处派发传单 </div></p>
 
 <div align=center>
-<img src="images/2018-7-11-fremont-04.jpg" width=580>
+<img src="img/2018-7-11-fremont-04.jpg" width=580>
 </div>
 <div align=center>  新学员在学炼第一套功法</div></p>
 
 <div align=center>
-<img src="images/2018-7-11--fremont-06.jpg" width=580>
+<img src="img/2018-7-11--fremont-06.jpg" width=580>
 </div>
 <div align=center> 新学员在学炼第三套功法 </div></p>
 
@@ -911,7 +911,7 @@
 她表示，回去后准备在网上下载《转法轮》，“我绝对想继续学法轮功。”
 
 <div align=center>
-<img src="images/2018-7-11--fremont-07.jpg" width=580>
+<img src="img/2018-7-11--fremont-07.jpg" width=580>
 </div>
 <div align=center> 新学员在学炼第五套功法 </div></p>
 
@@ -925,12 +925,12 @@
 苏瑞什（Suresh）说，他非常喜欢这个功法，非常好。这是他第一次尝试炼法轮功，他表示，要常炼法轮功。他尤其喜欢法轮功的原则真、善、忍。</p>
 <hr>
 <div align=center>
-<img src="images/9_193029.jpg" width=880>
+<img src="img/9_193029.jpg" width=880>
 </div>
 </p>
 
 <div align=center>
-<img src="images/2018-04-13_235422.jpg" width=880>
+<img src="img/2018-04-13_235422.jpg" width=880>
 </div>
 </p>
 <table>
@@ -1057,7 +1057,7 @@
 </table>
 
 <div align=center>
-<img src="images/2017-07-22_223829.jpg" width=480>
+<img src="img/2017-07-22_223829.jpg" width=480>
 </div>
 2002年6月，贵州省平塘县掌布乡的一位村民，在掌布风景区发现一块巨石，石面上有排列整齐的六个大字：“中国共产党亡”。经三路专家前往考察，这块巨石距今已有2亿7千万年，500年前从高崖上落下来，断成两块，字在右边那块巨石上，清晰可辨。又经鉴定，这些字都是天然形成的，没有任何人为加工的痕迹。当时国内一百多家媒体，包括新华社、中央台都有过报道，网上也能搜索到相关照片，当然，这些媒体都不敢提最后那个“亡”字，但从照片上可以看出来。</p>
 千百年来的中国，在要出大事之前就一定有奇事发生，老天或以瑞兆示吉，或以凶相警世。今天，贵州平塘的“藏字石”是否也在向人们预示着天机呢？突现标语“中国共产党亡”，非同小可，绝非偶然。“藏字石”是天机,预示”天要灭中共”,入过党、团、队员的 都要赶快退出来,免得跟他陪葬了。</p>
@@ -1088,12 +1088,12 @@
 <hr>
 
 <div align=center>
-<img src="images/img88a2f6715a6b.jpg" width=580>
+<img src="img/img88a2f6715a6b.jpg" width=580>
 </div>
 </p>
 
 <div align=center>
-<img src="images/imgc0610a.jpg" width=580>
+<img src="img/imgc0610a.jpg" width=580>
 </div>
 </p>
 
@@ -1121,62 +1121,62 @@
 
 
 <div align=center>
-<img src="images/25.jpg" width=580>
+<img src="img/25.jpg" width=580>
 </div>
 <p></p>
 <table>
 <tr>
-<td width=500 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
+<td width=500 ><a href="https://github.com/mingop/f6f6dw/blob/master/book/flg23.epub?raw=true" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
+<td width=380 ><a href="https://github.com/mingop/f6f6dw/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/cji59.epub?raw=true" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true" target="_blank">【 见证中国活摘器官是真实 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/fdfd23.epub?raw=true" target="_blank">【 见证中国活摘器官是真实 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/jco12.epub?raw=true" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/ytuu89.epub?raw=true" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/ass56.epub?raw=true" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true" target="_blank">【 我被马三家秘密投入男牢的遭遇 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/epub/qu6.epub?raw=true" target="_blank">【 我被马三家秘密投入男牢的遭遇 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/epub/qu6.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true" target="_blank">【 顺天意得平安 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/3wjo1.epub?raw=true" target="_blank">【 顺天意得平安 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/like.epub?raw=true" target="_blank">【 喜得大法 绝处逢生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/like.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like.epub?raw=true" target="_blank">【 喜得大法 绝处逢生 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true" target="_blank">【 传奇人生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/kks-ed.epub?raw=true" target="_blank">【 传奇人生 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <table>
 <tr>
-<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  		<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 </td></tr>
 </table>
@@ -1193,7 +1193,7 @@
 ■ 在迫害刚开始不久，中共官员就毫不讳言地说：镇压的费用超过了一场战争。可这场迫害善良民众的战争已经到了第 19 个年头，耗费了多少万亿的资金？都是民脂民膏啊。</p> 
 ■ 中共靠着炮制“天安门自焚伪案”来挑起民众对法轮功的仇恨，并借以维持它对法轮功的迫害。然而，参与炮制与宣扬这场世纪伪案的那些投机者也许只想到了借此“往上爬”，却忘记了古训早已明言：恶有恶报，多行不义必自毙。</a></p> 
   <div align=center>
-<img src="images/2018-08-08_214552.jpg" width=300>
+<img src="img/2018-08-08_214552.jpg" width=300>
 </div>
   
   <a href="https://git.io/3f">■ 十多年来，江泽民已在全球30 个地区被控以“反人类罪”、“群体灭绝罪”和“酷刑罪” ，敦促将其绳之以法。2015 年8 月，瑞士十位政要联名致信习近平，表示江泽民所犯下的反人类罪、酷刑罪等罪大恶极，要求推动“控江”这一重大诉讼。</p>
@@ -1211,7 +1211,7 @@
 <h2 align=center><a href="https://">香港研讨会揭露中共强摘器官 促制止迫害</a></h2>
 
 <div align=center>
-<img src="images/imgf30c63338928.jpg" width=580>
+<img src="img/imgf30c63338928.jpg" width=580>
 </div>
 
 【明慧网】2018 年6 月10 日，来自香港、台湾及海外的政要名人、专家学者聚首一堂，针对中共对法轮功等宗教信仰群体的残酷迫害包括强摘器官的罪行，呼吁制止迫害、追究罪责，以全球去共化的视野消除共产主义对全人类的祸害。
@@ -1231,9 +1231,9 @@
 
 <h2 align=center><a href="https://">誓言保护信仰自由 美国创办宗教自由会议</a></h2>
 <div align=center>
-<img src="images/2018-08-06_175702.jpg" width=400>
+<img src="img/2018-08-06_175702.jpg" width=400>
 </div>
- <h3 align=center><a href='https://github.com/sodore/dsdsa/blob/master/video/20180728.mp4?raw=true'>► 美国创办宗教自由会议  誓言保护信仰自由 .mp4 下载 </a></h3></p>
+ <h3 align=center><a href='https://github.com/mingop/f6f6dw/blob/master/video/20180728.mp4?raw=true'>► 美国创办宗教自由会议  誓言保护信仰自由 .mp4 下载 </a></h3></p>
 
 【新唐人2018年07月29日讯】新闻周刊（638）7月24号到26号，美国国务院召开了首届〝促进宗教自由〞部长级会议。副总统彭斯和国务卿蓬佩奥亲自出席，总统川普也发推支持。川普政府誓言，将把维护宗教自由作为首要任务处理。</p>
 
@@ -1278,7 +1278,7 @@
 <hr>
 </p>
 <div align=center>
-<img src="images/img3b7901e1.jpg" width=880>
+<img src="img/img3b7901e1.jpg" width=880>
 </div>
 </p>
 
@@ -1349,7 +1349,7 @@
 除了杀人者之外，中共也把自杀者说成是法轮功学员。吉林市郊一农民以修车为生，由于没办理营业手续，修车工具被城管没收，他不堪巨大的生活压力而上吊自杀。当家属要告城管部门时，当地民政部门为政府部门开脱责任，给予抚恤，把死者说成是练法轮功的。公安部门特意在死者周围摆上李洪志老师的相片和两瓶白酒，对死者重新录像。其实周围老百姓都知道，死者从未炼过法轮功。人们也都知道修炼法轮功是不喝酒的，但当时当地公安部门还不知道这一点，所以在录像中露出破绽，使拙劣的谎言不攻自破。</p>
 
 <div align=center>
-<img src="images/03-1400-death-cases-fabrication-cartoon2.jpg" width=580>
+<img src="img/03-1400-death-cases-fabrication-cartoon2.jpg" width=580>
 </div>
 </p>
 <a href=#top2><h4 align="right">回上方第2篇</a></h4>
@@ -1363,7 +1363,7 @@
 一九九九年七月二十日以后中央电视台连续播放诬陷法轮功的节目时，播出了一个所谓“罗锅事件”。此人叫张海青，在盘锦市开了一家刻字社，家庭很困难，住在农村，因患脊椎炎到北京协和医院看病，他妻子说当时在北京医院排队挂号人很多，他们排很远的队。这时来了一个记者说是中央电视台的，和当时排队的人说谁想上电视说法轮功不好，就给谁先挂号，并且药费减半。因为当时他们看病着急，张海青就胡说自己是炼法轮功炼成了罗锅，并且按记者写好的台词说了些不好的话。结果是先挂了号，但药费没有减半。后来张海青的妻子说中央电视台竟骗人，药费都是自己花的，至于张海青从没炼过法轮功，认识他的人都知道。</p>
 
 <div align=center>
-<img src="images/03-1400-death-cases-fabrication-cartoon.jpg" width=580>
+<img src="img/03-1400-death-cases-fabrication-cartoon.jpg" width=580>
 </div>
 </p>
 <b>黑龙江农妇李淑贤病重：医院院长承诺免费治疗</b>
@@ -1431,12 +1431,12 @@
 那么事实真相到底如何？让我们来看一份来自王安收家乡山东省新泰市法院的判决书，这是1999年5月，王安收的妻子尹彦菊向法院起诉与王安收离婚的民诉判决书。</p>
 
 <div align=center>
-<img src="images/02-min-shi-pan-jue-shu_page1.png" width=580>
+<img src="img/02-min-shi-pan-jue-shu_page1.png" width=580>
 </div>
 </p>
 
 <div align=center>
-<img src="images/02-min-shi-pan-jue-shu_page2.png" width=580>
+<img src="img/02-min-shi-pan-jue-shu_page2.png" width=580>
 </div>
 </p>
 在这份判决书中，我们看到原告尹彦菊提出的与被告王安收离婚的理由是：“被告婚前隐瞒精神病，婚后精神病复发多次，病情没有任何好转，无法与被告共同生活下去，要求与被告离婚。”</p>
