@@ -233,7 +233,7 @@
 </div>
 
 <div align=center>
-<img src="images/dfzh_0319.jpg" width=480>
+<img src="images/dfzh_0319.png" width=480>
 </div>
 <p></p>
 
