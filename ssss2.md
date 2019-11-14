@@ -182,7 +182,7 @@
 	</p>   
  <h4> ■ 2001年，在中国大地上，中共对法轮功的迫害正腥风血雨般地展开着。当年的1月23日，在这个家家团圆的除夕夜，天安门广场发生了震惊世界的“自焚”案。中共官方在第一时间宣称事件是法轮功学员所为。虽然各项证据都表明，事件是中共的“自编自演”，但中央电视台等官媒铺天盖地的报导，挑起了民众对法轮功的仇恨情绪。
    </h4> </p>
- <h4>  ■ 据人权团体自由之家统计，事件发生后，法轮功学员受到更为严厉的监禁和酷刑，被拘押的法轮功学员在拘押期间死亡人数明显上升，法轮功学员在中国陷入极其艰难的境地。迫害残忍至极 <a href="https://git.io/tr">https://git.io/tr</a> 了解更多。</h4></p>
+ <h4>  ■ 据人权团体自由之家统计，事件发生后，法轮功学员受到更为严厉的监禁和酷刑，被拘押的法轮功学员在拘押期间死亡人数明显上升，法轮功学员在中国陷入极其艰难的境地。迫害残忍至极 <a href="https://git.io/trtptp">https://git.io/trtptp </a> 了解更多。</h4></p>
    <h4> ■ 十几年来，随着越来越多民间质疑的涌现和相关调查结果的曝光，所谓的〝自焚〞真相渐渐被揭开，成为公认的〝21世纪最大伪案〞。</h4>
     </p>
   <h4> ■《追查国际》发言人汪志远指出，多项调查证据表明，〝天安门自焚伪案〞，是中共江泽民当局策划的构陷法轮功的阴谋。</h4>
@@ -1177,7 +1177,7 @@
 <tr>
 <td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
  <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
- 		<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+ 		<div align=center><a href="https://git.io/trtptp"> 更多epub真相,请在此 https://git.io/trtptp 下载</a></div></p>
 </td></tr>
 </table>
 </table>
