@@ -49,7 +49,7 @@
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4(游标点击右键,选另存新档)</a></td>
 
 </table>
 
@@ -227,8 +227,8 @@
 <td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=380><a href="https://githubgithub.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true" target="_blank">【江泽民其人】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
 
 
 <tr>
