@@ -49,7 +49,7 @@
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4(游标点击右键,选另存新档)</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4 (游标点击右键,选另存新档)</a></td>
 
 </table>
 
