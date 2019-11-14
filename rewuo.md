@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/au6.jpg" width=880>
-<h3><b>翻墙必看 视频 http://36.228.8.66</h3></b>
+<h3><b>翻墙必看 视频 http://220.141.128.24</h3></b>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div>
 <p></p>
@@ -76,13 +76,10 @@
  
 
 <table>
-  <tr>
-<td>
-<div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div></p>
-阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily 。 </a>
-如果是苹果的装置，本身自带的 ibook就能开启 。</p>
-是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
-至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a></td>
+ <tr>
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载电子书（ePub版）</a></div></p>
+ </td>
 </tr>
 </table>
 
