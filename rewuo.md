@@ -90,64 +90,64 @@
 <tr>
 	<td><div align=center><img src="images/1602040554111695.jpg" width=200></div>
 中共党魁江泽民发动对法轮功的镇压，本来就是“欲加之罪何患无辞”。明慧网一直是个教人向善的地方，迫害开始后增加了国内学员受迫害的冤屈案例。最后，上海浦东新区法院竟以“教人上明慧网”这样荒唐的“罪名”判了胡志明四年徒刑，把他塞进了监狱。
- <a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true">下载epub电子书 :【一位空軍少校穿越生死之旅】</a></td></tr>
+ <a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story1.epub?raw=true">下载epub电子书 :【一位空軍少校穿越生死之旅】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/1602191227241695-600x400.jpg" width=400></div>
-2000年6月19日晚，赵昕在北京紫竹院公园牡丹亭炼功时，被非法抓到公园派出所，后被海淀分局带走，非法关押在海淀分局清河看守所。在关押期间，赵昕绝食抗议，被强制灌食。6月22日，赵昕遭到殴打，造成颈椎第4、5、6节粉碎性骨折，头部轻度外伤，左眼肿大有外伤，肺不能呼吸。当天晚上，生命垂危。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story2.epub?raw=true">下载epub电子书 :【一位青年教师的生命之歌】</a></td></tr>
+2000年6月19日晚，赵昕在北京紫竹院公园牡丹亭炼功时，被非法抓到公园派出所，后被海淀分局带走，非法关押在海淀分局清河看守所。在关押期间，赵昕绝食抗议，被强制灌食。6月22日，赵昕遭到殴打，造成颈椎第4、5、6节粉碎性骨折，头部轻度外伤，左眼肿大有外伤，肺不能呼吸。当天晚上，生命垂危。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story2.epub?raw=true">下载epub电子书 :【一位青年教师的生命之歌】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/1509011008432192.jpg" width=200></div>
-电视上的真相如一道闪电，撕破了中共红色恐怖下的层层铁幕，将中共陷害法轮功的阴谋一下子曝光在世人面前。阴暗的东西最怕曝光。“长春插播”事件像捅向邪恶心脏的利剑。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story3.epub?raw=true"> 下载epub电子书 :【 忆刘成军 】</a></td></tr>
+电视上的真相如一道闪电，撕破了中共红色恐怖下的层层铁幕，将中共陷害法轮功的阴谋一下子曝光在世人面前。阴暗的东西最怕曝光。“长春插播”事件像捅向邪恶心脏的利剑。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story3.epub?raw=true"> 下载epub电子书 :【 忆刘成军 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/1512041610372192-600x400.jpg" width=400></div>
-陈运川一家所受到的惨烈迫害是最严重的案例之一，他们的遭遇是全中国数千万因为信仰被迫害的个体与家庭悲剧的缩影。一个普通的农民家庭，实践“真、善、忍”的百姓，惨遭邪恶蹂躏。三个儿女先后被酷刑虐杀，两位老人被迫流离失所，相继离世，唯一幸存的长女仍被非法关押，饱受凌辱。今天，迫害仍未停止，罪恶还在侵袭中华大地。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
+陈运川一家所受到的惨烈迫害是最严重的案例之一，他们的遭遇是全中国数千万因为信仰被迫害的个体与家庭悲剧的缩影。一个普通的农民家庭，实践“真、善、忍”的百姓，惨遭邪恶蹂躏。三个儿女先后被酷刑虐杀，两位老人被迫流离失所，相继离世，唯一幸存的长女仍被非法关押，饱受凌辱。今天，迫害仍未停止，罪恶还在侵袭中华大地。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/2012-6-19-cmh-song-bing-600x400.jpg" width=400></div>
-从1999年9月到2001年，宋彦群和宋冰经历了许多次非法拘禁，辗转于北京的拘留所、舒兰市南山看守所和长春黑嘴子女子劳教所。被劳教期间，她们整天听着电棍辟里啪啦的电人声和法轮功学员的惨叫声，空气中飘散著皮肉被电糊的味道。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story5.epub?raw=true">下载epub电子书 :【 流泪的并蒂莲 】</a></td></tr>
+从1999年9月到2001年，宋彦群和宋冰经历了许多次非法拘禁，辗转于北京的拘留所、舒兰市南山看守所和长春黑嘴子女子劳教所。被劳教期间，她们整天听着电棍辟里啪啦的电人声和法轮功学员的惨叫声，空气中飘散著皮肉被电糊的味道。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story5.epub?raw=true">下载epub电子书 :【 流泪的并蒂莲 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/1608021159191456-600x400.jpg" width=400></div>
-在太平间，王可非的家属见到了这样的情景：王可非的脖子上缠了一卷卫生纸，大臂上勒著止血胶带，左手肿得像馒头一样。她的上身穿了一件破毛衣，袖子撸到腋下，下身裸露。尽管太平间满是冰霜，王可非的脸和身体摸上去还是温的，和活人体温相近，这说明人还没有死就被送来了。王可非的母亲瘫倒在地上，放声痛哭。家人质问在场的劳改医院院长：“王可非是怎么死的？为什么不通知家属？”院长吓得赶紧逃走。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story6.epub?raw=true">下载epub电子书 :【 长春农行最美女职员的悲惨遭遇 】</a></td></tr>
+在太平间，王可非的家属见到了这样的情景：王可非的脖子上缠了一卷卫生纸，大臂上勒著止血胶带，左手肿得像馒头一样。她的上身穿了一件破毛衣，袖子撸到腋下，下身裸露。尽管太平间满是冰霜，王可非的脸和身体摸上去还是温的，和活人体温相近，这说明人还没有死就被送来了。王可非的母亲瘫倒在地上，放声痛哭。家人质问在场的劳改医院院长：“王可非是怎么死的？为什么不通知家属？”院长吓得赶紧逃走。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story6.epub?raw=true">下载epub电子书 :【 长春农行最美女职员的悲惨遭遇 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/2006-11-7-yuanjiang-ss.jpg" width=400></div>
-王志君打开门，吓了一跳。门口站着一个人，蓬头垢面，口鼻流血，衣裤破烂不堪。撕破了的上衣兜里，露著几绺萝卜缨子。裤子像是被剪刀绞过的，整条腿就像干瘪的枯枝，膝盖以下都是黑紫色，小腿和脚上有一块地方没了皮肉，露著骨头。“你是谁？”“我是袁江。”王志君惊呆了，怔怔地再多看对方几眼，瞬间泪如泉涌。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story8.epub?raw=true">下载epub电子书 :【 酷刑下的勇者——袁江 】</a></td></tr>
+王志君打开门，吓了一跳。门口站着一个人，蓬头垢面，口鼻流血，衣裤破烂不堪。撕破了的上衣兜里，露著几绺萝卜缨子。裤子像是被剪刀绞过的，整条腿就像干瘪的枯枝，膝盖以下都是黑紫色，小腿和脚上有一块地方没了皮肉，露著骨头。“你是谁？”“我是袁江。”王志君惊呆了，怔怔地再多看对方几眼，瞬间泪如泉涌。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story8.epub?raw=true">下载epub电子书 :【 酷刑下的勇者——袁江 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/2001-7-7-zuo-600x400.jpg" width=400></div>
-一个信仰“真、善、忍”的好人，家中的孝子、单位的敬业员工、快乐的未婚夫，一夜之间被害死。如此杀人命案，居然不能进入司法程序，杀人凶手逍遥法外，继续作恶。上访信、控告状寄了无数份均无回音。最合情合理合法的重新鉴定申请无人受理，因为左志刚是法轮功学员，河北省政法委秘密下令，不让立案。据说检察院曾经想介入调查，却不了了之。这是什么世道！<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story9.epub?raw=true">下载epub电子书 :【 五月飞雪——石家庄奇冤 】</a></td></tr>
+一个信仰“真、善、忍”的好人，家中的孝子、单位的敬业员工、快乐的未婚夫，一夜之间被害死。如此杀人命案，居然不能进入司法程序，杀人凶手逍遥法外，继续作恶。上访信、控告状寄了无数份均无回音。最合情合理合法的重新鉴定申请无人受理，因为左志刚是法轮功学员，河北省政法委秘密下令，不让立案。据说检察院曾经想介入调查，却不了了之。这是什么世道！<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story9.epub?raw=true">下载epub电子书 :【 五月飞雪——石家庄奇冤 】</a></td></tr>
 </table>
 
 <table>
 <tr>
 <td><div align=center><img src="images/3cbf2e383102ab1ffecd393bd09b8e16-600x400.jpg" width=400></div>
-她们被迫连续十几个小时，以标准坐姿坐在儿童椅上，以至于腿脚肿胀，背部和臀部瘀青、甚至溃烂。无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
+她们被迫连续十几个小时，以标准坐姿坐在儿童椅上，以至于腿脚肿胀，背部和臀部瘀青、甚至溃烂。无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<a href="https://github.com/mingop/f6f6dw/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 </table>
 
 <table>
  <tr>
 <td width=880>
  <div align=center>■ 以上只是冰山一角，明慧网: http://www.minghui.org 了解更多真相<br></div>
-<div align=center>■ 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>推荐使用'火狐'等非国产浏览器访问！ <br></div>
+<div align=center>■ 翻墙方法见<a href="https://git.io/opopop"> https://git.io/opopop </a>推荐使用'火狐'等非国产浏览器访问！ <br></div>
 
-<div align=center>■ 了解真相是你的权利，认识"法轮大法"下载epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> <br>
+<div align=center>■ 了解真相是你的权利，认识"法轮大法"下载epub电子书<a href="https://github.com/mingop/f6f6dw/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> <br>
 </tr></td>
 </table>
 
@@ -182,7 +182,7 @@
 
   <table>
 <tr>
-	<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="580" ></div>
+	<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/hh235.jpg" width="580" ></div>
 	▲ 加拿大人权律师大卫‧麦塔斯和前亚太司司长戴维‧ 乔高将调查报告集结成《血腥的活摘器官》一书，包含不可辩驳的52种证据。</td>
 </tr>
 </table>
@@ -190,7 +190,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"  width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/hh548.jpg"  width="580"></div>
 	▲ 前美国智库研究员、独立记者伊森‧葛特曼从2006年开始调查中共活摘良心犯的器官，他的书《大屠杀》中估计从2 0 0 0 - 2 0 0 8年间，至少有6.5万名法轮功学员被强摘器官。</td>
 </tr>
 </table>
@@ -211,7 +211,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img42249c15fd31.jpg"width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/img42249c15fd31.jpg"width="580"></div>
 	▲ 中国器官移植数量从1999年开始上升，和从1999年中共迫害法轮功同步，在2003年～2006年期间暴涨，达到高峰。中国在短时间内成为器官移植大国，但是中共声称的器官来自死刑犯根本解释不了这些数量庞大的器官移植。</td>
 </tr>
  </table>
@@ -219,7 +219,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh230.jpg" width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/hh230.jpg" width="580"></div>
 	▲《大纪元》获知情人提供的录音证实，2006年9月13日时任商务部长的薄熙来跟随时任中共总理温家宝访问德国汉堡时，曾亲口承认“江泽民下达了活摘法轮功学员器官的命令”。</td>
 </tr>
  </table>
@@ -227,7 +227,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg" width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/pic1.jpg" width="580"></div>
 	<div align=center>▲ 欧议会议案制止中共活摘器官</div><br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
 	</tr>
  </table>
@@ -235,7 +235,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"  width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/2016-06-14-575f993b8e600.jpg"  width="580"></div>
 <div align=center>▲ 美国议会谴责中共迫害法轮功</div><br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
 </tr>
  </table>
@@ -243,7 +243,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg" width="580"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/2018-05-20_111848.jpg" width="580"></div>
 	<div align=center>▲ 加拿大历届总理持续关注法轮功人权 (左起:马田、哈珀、特鲁多)</div> <br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
 </td>
 </tr>
@@ -252,7 +252,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="580" ></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/2018-05-20_112748.jpg"  width="580" ></div>
 	<div align=center>▲ 全球逾百万民众签名要求制止中共迫害法轮功</div><br />随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
 
 </tr>
@@ -276,7 +276,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="240"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/img1196f9097600.jpg" width="240"></div>
 	▲ 法轮功学员王斌，原大庆油田勘探开发研究院计算器软件工程师，曾获国家科技二等奖。被大庆男子劳教所打到重伤不治，遇害后王斌的心脏、大脑被剖出，内脏被野蛮摘取。王斌的妻子到太平间认尸时，暗中拍下这张骇人的照片。</td>	
 	</tr>	
 	</table>	
@@ -284,7 +284,7 @@
 <p></p>
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/imge831c2380ee4.jpg"  width="440"></div>
+<td><div align=center><img src="https://github.com/mingop/f6f6dw/blob/master/images/imge831c2380ee4.jpg"  width="440"></div>
 	<div align=center>▲ 这是国外的尸体展中一个标本：年轻的中国孕妇和其腹中八个月大的胎儿。</div><br />
 	这个尸体展招致社会普遍的强烈抗议、愤怒：在传统观念深厚的中国，谁会将尸体制成标本展览？这具尸体的来源更是受到质疑：按照中国法律，孕妇不能处极刑，而且即使是车祸死亡，哪个家属会捐赠自己的妻子和未出生孩子的尸体呢？尸体展中的人体标本来自中国大连尸体加工厂，这样的尸体加工厂在大连有两家：哈根斯大连生物塑化公司和大连鸿峰生物有限公司。</td>
 	</tr>
@@ -388,8 +388,8 @@
 一秘：就是，就是说呀，当初您在辽宁这个当省长时，因为这涉及到明天的会见嘛，他们想澄清一下。就是说，当初您在辽宁当省长时候，就是，是江泽民、江主席下的命令，还是您参与的，就是说这个，关于把这个法轮功这个活体摘除器官这个事情，是您的命令还是江泽民的命令？</p>
 薄熙来：江主席！</p>
 
-请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕》</a> ，<a href="https://git.io/ysys"> 翻墙方法见 https://git.io/ysys 。</a> </p>
-<a href="https://github.com/sodore/dsdsa/blob/master/audio/mh-audio-ai-s.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕》</a> ，<a href="https://git.io/opopop"> 翻墙方法见 https://git.io/opopop 。</a> </p>
+<a href="https://github.com/mingop/f6f6dw/blob/master/audio/mh-audio-ai-s.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 
 </td> 
 </tr>
@@ -407,7 +407,7 @@
 调查员：你说什么？</p>
 赵：我说，你说谷开来呀，卖法轮功人体器官的，</p>
 调查员：对呀，她在大连搞了两个尸体加工厂，她一具完整的尸体在国际上卖一百万美金，一个脏器被摘除的尸体她卖八十万美金。</p>
-<a href="https://github.com/sodore/dsds/blob/master/audio/18-tianjin-610-16k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/mingop/f6f6dw/blob/master/audio/18-tianjin-610-16k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 
 </td> 
 </tr>
@@ -429,7 +429,7 @@
 调查员：对呀，我就是……</p>
 陈强：这东西它都一条龙的，你知道嘛。</p>
 
-<a href="https://github.com/sodore/dsds/blob/master/audio/2-chenqiang-307-new-edited-8k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/mingop/f6f6dw/blob/master/audio/2-chenqiang-307-new-edited-8k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 </td> 
 </tr>
  </table>
@@ -446,11 +446,11 @@
 医生：来了一个礼拜左右就可以做了。	</p>
 调查员：有没有这种炼法轮功的这种提供的，这种提供的说是很好……</p>
 医生：我们这儿的都是这种。</p>
-（上述三个录音请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/9/26/280291.html">《追查国际关于中共活体摘取法轮功学员器官证据专辑》</a>，( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>)。<br>
+（上述三个录音请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/9/26/280291.html">《追查国际关于中共活体摘取法轮功学员器官证据专辑》</a>，( 翻墙方法见<a href="https://git.io/opopop"> https://git.io/opopop </a>)。<br>
 </p>
 
 ▊ 复旦大学器官移植中心成立于 2001年10月30日，已累计完成肾脏移植近千例，年移植100余例，并以每年50% 的速度递增。</p>
-<a href="https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji-s.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/mingop/f6f6dw/blob/master/audio/12-wuhan-tongji-s.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 
 
 </p>
@@ -464,7 +464,7 @@
   <tr>
 <td>
 <h3 align=center><a href="https://">更多调查录音节录</a></h3>
-多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>详情更多调查录音请翻墙访问：<a href="http://www.zhuichaguoji.org/node/65694"> 《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告》</a> ， 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys 。</a>
+多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>详情更多调查录音请翻墙访问：<a href="http://www.zhuichaguoji.org/node/65694"> 《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告》</a> ， 翻墙方法见<a href="https://git.io/opopop"> https://git.io/opopop 。</a>
 	<p></p>
 	<div align=center>
 <img src="images/img05ec353fa9f5.jpg" width=580>
@@ -502,7 +502,7 @@
 证人还说：当时王立军，现在的重庆公安局长，下死命令“必须斩尽杀绝”。</p>
 
 注一：在最初交谈中，证人为了不暴露自己，没有明确说出活摘器官的场所。在第二次交谈中，证人明确说出活摘器官是在沈阳军区总医院15楼的一间手术室内进行。经核实，沈阳军区总医院15至17楼均为外科。</p>
-<a href="https://github.com/sodore/dsds/blob/master/video/aj1-1.wmv?raw=true">下载完整的录音文件.mp4</a>
+<a href="https://github.com/mingop/f6f6dw/blob/master/video/aj1-1.wmv?raw=true">下载完整的录音文件.mp4</a>
 </td> 
 </tr>
  </table>
@@ -529,7 +529,7 @@
 
 直到2016年邓光英出面作证，外界才得知，徐真之死不寻常。</p>
 徐真死后，劳教所没有通知家属。而徐真死后一个星期，该所警察喻晓华就告诉其他犯人:“事情已经摆平，不会追究”。</p>
-<a href="https://github.com/sodore/dsds/blob/master/video/flu-d.mp4?raw=true">下载完整的录音文件.mp4</a></p>
+<a href="https://github.com/mingop/f6f6dw/blob/master/video/flu-d.mp4?raw=true">下载完整的录音文件.mp4</a></p>
 </td> 
 </tr>
  </table>
@@ -555,48 +555,48 @@
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
+<td width=380 ><a href="https://github.com/mingop/f6f6dw/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 见证中国活摘器官是真实 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 顺天意得平安 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 传奇人生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <table>
 <tr>
-<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载电子书（ePub版）</a></div></p>
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载电子书（ePub版）</a></div></p>
  
 		
 </td></tr>
@@ -898,7 +898,7 @@
 崔素红死状奇惨：头、脸被碾掉半个，肠子被轧出来，大腿被车轮胎豁开，肉往外翻。因为赔偿问题没有解决，现在尸体在镇政府，后事还未处理。崔素红身后留下两个孩子。</p>
 崔素红是所谓包村干部，长期监视法轮功学员和共产党认为的异议者，并传达迫害任务给村干部。2018年中共两会期间，崔素红蹲村布控监视，并要求村干部撕掉法轮功学员王小东家门上带有“法轮大法好”的福字。事隔一个多月，崔素红就惨遭车祸。法轮功学员坚持向人们讲真相，就是不愿看到这种悲剧发生。</p>
 更多真相, 请翻墙访问明慧网 http://www.minghui.org/ <br>
-翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a> 这个链接请妥为收藏<br>
+翻墙方法见<a href="https://git.io/opopop"> https://git.io/opopop </a> 这个链接请妥为收藏<br>
 
 <div align=center>
 <img src="images/20160124163436.jpg" width=480>
