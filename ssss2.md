@@ -1162,8 +1162,8 @@
 <td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like.epub?raw=true" target="_blank">【 喜得大法 绝处逢生 】</a></td>
-<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like-s.epub?raw=true" target="_blank">【 喜得大法 绝处逢生 】</a></td>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/epub/like-s.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://github.com/mingop/f6f6dw/blob/master/book/kks-ed.epub?raw=true" target="_blank">【 传奇人生 】</a></td>
