@@ -278,11 +278,11 @@
 </tr>
 
 <tr>
- <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015706s.mp4?raw=true">贺三亿人三退 解体中共 指日可待.mp4</a></center></td>
+ <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015706s.mp4?raw=true">贺三亿人三退 解体中共 指日可待.mp4(点击右键,另存新档)</a></center></td>
 	
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015900s.mp4?raw=true">伟大的中国人终将摆脱中共.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015900s.mp4?raw=true">伟大的中国人终将摆脱中共.mp4(点击右键,另存新档)</a></center></td>
 	
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016918s.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016918s.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类.mp4(点击右键,另存新档)</a></center></td>
 </tr>
 
 <tr>
@@ -294,11 +294,11 @@
 </tr>
 
 <tr>
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/20180318_014942s.mp4?raw=true">香港庆祝三亿人三退 陆客震撼.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/20180318_014942s.mp4?raw=true">香港庆祝三亿人三退 陆客震撼.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/0161868s.mp4?raw=true"> 郝凤军：良知指引下的救赎.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/0161868s.mp4?raw=true"> 郝凤军：良知指引下的救赎.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a24bc0e0b8s.mp4?raw=true">三退小问答.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a24bc0e0b8s.mp4?raw=true">三退小问答.mp4(点击右键,另存新档)</a></center></td>
 </tr>
 
 <tr>
@@ -310,11 +310,11 @@
 </tr>
 
 <tr>
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015814s.mp4?raw=true">“三退”是和平解体中共的上善之法.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015814s.mp4?raw=true">“三退”是和平解体中共的上善之法.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a895STs.mp4?raw=true">3亿-三退是件甚么事.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a895STs.mp4?raw=true">3亿-三退是件甚么事.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016201s.mp4?raw=true">全民弃共 体制内人士诉心声.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016201s.mp4?raw=true">全民弃共 体制内人士诉心声.mp4(点击右键,另存新档)</a></center></td>
 </tr>
 
 <tr>
@@ -327,11 +327,11 @@
 
 
 <tr>
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/074172s.mp4?raw=true">【禁闻】美国会研讨谴中共迫害 声援退党潮.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/074172s.mp4?raw=true">【禁闻】美国会研讨谴中共迫害 声援退党潮.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a156879as.mp4?raw=true">【禁闻】大纪元：抛弃中共 重塑中华民族辉煌.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a156879as.mp4?raw=true">【禁闻】大纪元：抛弃中共 重塑中华民族辉煌.mp4(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/012366s.mp4?raw=true">【禁闻】〝三退〞录音：中共太腐败 迟早要完.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/012366s.mp4?raw=true">【禁闻】〝三退〞录音：中共太腐败 迟早要完.mp4(点击右键,另存新档)</a></center></td>
 
 </tr>
 
