@@ -45,8 +45,8 @@
 
 <table>
 <tr>
-	<td width=440><h4 align=center><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></h4></td>
-	<td width=440 ><h4 align=center><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
+	<td width=440><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></h4></td>
+	<td width=440 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
 	</table>
 <table>
 <tr>
@@ -57,7 +57,10 @@
 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。</p>
 ■ 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 </td>
-</tr>
+
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/mingop/f6f6dw/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载电子书（ePub版）</a></div></p></td></tr>
+
 </table>
 <hr>
   <h2 align=center><a href="https://" target="_blank">《九评共产党》系列文章及音频(mp3).下载</a></h2>
@@ -65,39 +68,39 @@
 <table>
 <tr>
 <td width=550 ><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之一：评共产党是什么</a></td>
-<td width=330 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=330 ><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之二：评中国共产党是怎样起家的</a></td>
-<td width=330><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=330><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之三: 评中国共产党的暴政</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之四：评共产党是反宇宙的力量</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之六：评中国共产党破坏民族文化</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之七：评中国共产党的杀人历史</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之八：评中国共产党的邪教本质</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://github.com/goodabc/GCC/blob/master/9p.md" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=150><a href="https://github.com/mingop/f6f6dw/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 </table>
 
@@ -267,68 +270,68 @@
 
 <tr>
  
-<td><a href="https://github.com/sodore/dsds/blob/master/video/015706s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/20180326_015706_0.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/015706s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/20180326_015706_0.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/015900s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-3-13-ny-brooklyn.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/015900s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/2018-3-13-ny-brooklyn.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/016918s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/5-6.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/016918s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/5-6.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
- <td><center><a href="https://github.com/sodore/dsds/blob/master/video/015706s.mp4?raw=true">贺三亿人三退 解体中共 指日可待.mp4</a></center></td>
+ <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015706s.mp4?raw=true">贺三亿人三退 解体中共 指日可待.mp4</a></center></td>
 	
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/015900s.mp4?raw=true">伟大的中国人终将摆脱中共.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015900s.mp4?raw=true">伟大的中国人终将摆脱中共.mp4</a></center></td>
 	
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/016918s.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016918s.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类.mp4</a></center></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/d4e5d94b728a.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/20180318_014942s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/d4e5d94b728a.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/0161868s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8765071a600648183.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/0161868s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/p8765071a600648183.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/292076.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/a24bc0e0b8s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/292076.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942s.mp4?raw=true">香港庆祝三亿人三退 陆客震撼.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/20180318_014942s.mp4?raw=true">香港庆祝三亿人三退 陆客震撼.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/0161868s.mp4?raw=true"> 郝凤军：良知指引下的救赎.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/0161868s.mp4?raw=true"> 郝凤军：良知指引下的救赎.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8s.mp4?raw=true">三退小问答.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a24bc0e0b8s.mp4?raw=true">三退小问答.mp4</a></center></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/video/015814s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/ak478923.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/015814s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/ak478923.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a895STs.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-3-13-ny.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/a895STs.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/2018-3-13-ny.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/016201s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/621571820.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/016201s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/621571820.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/015814s.mp4?raw=true">“三退”是和平解体中共的上善之法.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/015814s.mp4?raw=true">“三退”是和平解体中共的上善之法.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/a895STs.mp4?raw=true">3亿-三退是件甚么事.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a895STs.mp4?raw=true">3亿-三退是件甚么事.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/016201s.mp4?raw=true">全民弃共 体制内人士诉心声.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/016201s.mp4?raw=true">全民弃共 体制内人士诉心声.mp4</a></center></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/video/074172s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8600131a538707922.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/074172s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/p8600131a538707922.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a156879as.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/a380385311.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/a156879as.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/a380385311.jpg" width="265"  border="0" alt=""></a></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/012366s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/xp3zqzqu-6.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/video/012366s.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/images/xp3zqzqu-6.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 
 <tr>
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/074172s.mp4?raw=true">【禁闻】美国会研讨谴中共迫害 声援退党潮.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/074172s.mp4?raw=true">【禁闻】美国会研讨谴中共迫害 声援退党潮.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/a156879as.mp4?raw=true">【禁闻】大纪元：抛弃中共 重塑中华民族辉煌.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/a156879as.mp4?raw=true">【禁闻】大纪元：抛弃中共 重塑中华民族辉煌.mp4</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/012366s.mp4?raw=true">【禁闻】〝三退〞录音：中共太腐败 迟早要完.mp4</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/012366s.mp4?raw=true">【禁闻】〝三退〞录音：中共太腐败 迟早要完.mp4</a></center></td>
 
 </tr>
 
@@ -338,9 +341,9 @@
 <tr>
  
 <td>
-■ <a href="https://git.io/ysys">突破网络封锁 https://git.io/ysys</a>  这个链接请妥为收藏，可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等。
+■ <a href="https://git.io/opopop">突破网络封锁 https://git.io/opopop</a>  这个链接请妥为收藏，可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等。
 
-■ <a href="https://git.io/toto">《共产主义的终极目的——中国篇》https://git.io/toto 视频、音频和电子书,请妥为收藏，下载观看。
+■ <a href="http://git.io/got15e">《共产主义的终极目的——中国篇》http://git.io/got15e 视频、音频和电子书,请妥为收藏，下载观看。
 </a></td></tr>
 </table>
 <hr>
@@ -353,74 +356,74 @@
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【突破封锁看世界】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/dong/fangqian-s.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
+<td width=380 ><a href="https://github.com/mingop/f6f6dw/blob/master/dong/fangqian-s.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【九评共产党】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【三亿退党潮】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(图文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/300Mst-s .epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【为什么要三退】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(图文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/whytd.epub?raw=true">(图文、音頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【认识法轮大好】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(图文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/dfhao.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【法轮大法洪传世界】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(图文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/fldfhao.epub?raw=true">(图文、音頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【风雨天地行】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【一位律师的肺腑直言】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/lawyer.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【这个星球上前所未有的邪恶】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(图文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/oh.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【1400例谎言的背后】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
 
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【解体党文化】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【马克思的成魔之路】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【百年红祸】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/mingop/f6f6dw/blob/master/book/bnhhv.epub?raw=true">(图文).下载</a></td></tr>
 
 
 </table>
