@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="img/2018-06-29_21475-1.jpg" width=880>
-<h2><b>翻墙必看 视频 http://220.141.128.24 </h2></b>
+<h2><b>翻墙必看 视频 http://36.227.112.13 </h2></b>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h1></div>
 
 
