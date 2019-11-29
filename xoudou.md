@@ -5,6 +5,19 @@
 <div align=center>
 <img src="img/fngrchn.jpg" width=580> </div></p>
 
+<table>
+<tr><td width=880> 
+<div align=center>
+<b><a href="https://github.com/">感恩节 纽约腰鼓队法轮功学员谢师尊（上）（2019） </a></b>
+
+ </div>
+</td></tr>
+</table>
+</p>
+
+<div align=center>
+<img src="img/fngrchn.jpg" width=580> </div></p>
+
 <h3 align=center>中秋节16000条问候 经明慧寄李洪志大师</h3></p>
 
 <div align=center>
