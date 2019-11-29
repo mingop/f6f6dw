@@ -8,8 +8,7 @@
 <table>
 <tr><td width=880> 
 <div align=center>
-<b><a href="https://github.com/">感恩节 纽约腰鼓队法轮功学员谢师尊（上）（2019） </a></b>
-
+<b><a href=#a1>感恩节 纽约腰鼓队法轮功学员谢师尊（上）（2019）</a></b>
  </div>
 </td></tr>
 </table>
