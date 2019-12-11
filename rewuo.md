@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/au6.jpg" width=880>
-<h3><b>翻墙必看 视频 http://220.141.119.226</h3></b>
+<h3><b>翻墙必看 视频 http://36.227.96.77</h3></b>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div>
 <p></p>
