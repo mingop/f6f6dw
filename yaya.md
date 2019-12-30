@@ -11,7 +11,7 @@
  <table>
 <tr><td width=880> 
 <div align=center>
-<b><a href="https://github.com/mingop/f6f6dw/blob/master/xoudou.md">中秋谢师恩（2019） </a></b>&nbsp; 
+<b><a href="https://github.com/mingop/f6f6dw/blob/master/xoudou.md">佳节谢师恩（2019） </a></b>&nbsp; 
 <b><a href=#a1>黑窝里的明白人（1）</a></b>&nbsp;
 <b><a href=#a2>黑窝里的明白人（2）</a></b>&nbsp;
 <b><a href=#a3>黑窝里的明白人（3）</a></b>&nbsp; 
