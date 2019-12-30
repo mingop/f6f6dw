@@ -5,11 +5,12 @@
 <div align=center>
 <img src="img/fngrchn.jpg" width=580> </div></p>
 
+<a name=list><b>目录</b>
 <table>
 <tr><td width=880> 
 <div align=center>
-<b><a href=#a1>感恩节 纽约腰鼓队法轮功学员谢师尊（上）（2019）</a></b>&nbsp;
- <b><a href=#a2>感恩节 纽约腰鼓队法轮功学员谢师尊（下）（2019）</a></b>&nbsp;
+<b><a href=#a1>感恩节 纽约腰鼓队法轮功学员谢师尊（上）（2019）</a></b><br>
+ <b><a href=#a2>感恩节 纽约腰鼓队法轮功学员谢师尊（下）（2019）</a></b></p>
  
  </div>
 </td></tr>
