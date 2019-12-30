@@ -5,7 +5,7 @@
 <div align=center>
 <img src="img/fngrchn.jpg" width=580> </div></p>
 
-<a name=list><b>目录</b>
+<a name=list>
 <table>
 <tr><td width=880> 
 <div align=center>
