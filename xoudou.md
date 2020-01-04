@@ -765,7 +765,7 @@
 
 <hr>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回上方</h4></a>
 <a name=a1><h3 align="center"><b>感恩节 纽约腰鼓队法轮功学员谢师尊（上）</b></h3></P> 
 
 <div align=center>
@@ -876,7 +876,7 @@
 
 责任编辑：李缘</p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回上方</h4></a>
 <a name=a2><h3 align="center"><b>感恩节 纽约腰鼓队法轮功学员谢师尊（下）</b></h3></P> 
 
 <div align=center>
@@ -960,7 +960,7 @@
 责任编辑：李缘</p>
 
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回上方</h4></a>
 <a name=a3><h3 align="center"><b>大陆民众得福报 敬祝李洪志大师新年好</b></h3></P> 
 
 <div align=center>
@@ -1078,3 +1078,4 @@
 
 文字整理：李洁思，责任编辑：高静</p>
 
+<a href=#list><h4 align="right">回上方</h4></a>
