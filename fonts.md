@@ -14,29 +14,24 @@
 
 <h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>下載 翻牆軟件</h3>
 
-<table>
-<div align="center">
+ <table align="center">
  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/don/fg--+769p.zip?raw=true'>自由门.桌机版 fg--+769p.zip</a></td>
  
   <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg++769++p.exe?raw=true'>自由门.桌机版 fg++769++p.exe</a></td>
-   </div>
+  
  </table>
  
- 
- <table>
-<div align="center">	
+  <table align="center">
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um=4.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></td>
- </div>
+ 
  </table>
  
- <table>
-<div align="center">
+ <table align="center">
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/u=19.02.zip?raw=true'>无界浏览.桌机版19.02.zip</a></td>	
   <td width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/u=19.02.exe?raw=true'>无界浏览.桌机版19.02.exe</a></td>
  
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/u=19.02.zip?raw=true'>无界浏览.桌机版19.02.zip</a></td>
- </div>
 </table>
 
 <p></p>
