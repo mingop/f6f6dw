@@ -16,9 +16,9 @@
 
  <table>
 
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-fg+770p.zip?raw=true'>自由门.桌机版 fg--+769p.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-fg+770p.zip?raw=true'>自由门.桌机版 2020-fg+770p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-fg+770p.exe?raw=true'>自由门.桌机版 fg++769++p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-fg+770p.exe?raw=true'>自由门.桌机版 2020-fg+770p.exe</a></td>
   
  </table>
  
