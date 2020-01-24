@@ -19,10 +19,6 @@
  </div>
 </td></tr>
 </table>
-</p>
-<div align=center>
-<img src="img/1552100-ss1.jpg">
-</div>
 
 <table>
  </td>
@@ -47,6 +43,12 @@
 
 </tr>
 </table>
+</p>
+<div align=center>
+<img src="img/1552100-ss1.jpg">
+</div>
+
+
 <hr>
 
 
