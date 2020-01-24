@@ -4,6 +4,31 @@
  <h2><b>翻墙必看 视频 http://36.228.9.144 </h2></b>
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
 <p></p>
+
+<table>
+ </td>
+
+</tr>
+<tr>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
+ 
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf11474812.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/top.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/top34.jpg" width="265"  border="0" alt=""></a></td>
+ </tr>
+ 
+<tr>
+ 
+
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-1.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
+
+ <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/top.html?raw=true">每日新闻-全球要闻.html(点击右键,另存新档)</a></center></td>
+
+</tr>
+</table>
+
 <div align=center>
 <img src="images/20180-189.jpg" width=880>
 </div>
