@@ -69,6 +69,11 @@
 </td> </tr>
   </table> 
 <p></p>
+
+<div align=center>
+<img src="images/895556.jpg" width=880>
+</div> 
+</p>
 <div align=center>
 <img src="images/34_ttl7dayFH7.jpg" width=880 >
 </div>
