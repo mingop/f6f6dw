@@ -55,6 +55,9 @@
   </table> 
 
 <div align="center">
+<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+
+<div align="center">
 <img src="images/2019-02-18_185146--5.jpg" width=880 ></p></div>
 
 <div align="center">
