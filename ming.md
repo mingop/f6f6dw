@@ -66,8 +66,10 @@
   <tr>
 <td> * 进入以下网址,访问大纪元退党网站。 https://git.io/722 请复制后，用谷歌浏览器访问。
 </td> </tr>
-  </table> 
-  
+  </table> </p>
+ <div align=center>
+<img src="images/895556.jpg" width=880>
+</div> 
 </p>
 <div align=center>
 <img src="images/20180-189.jpg" width=880>
