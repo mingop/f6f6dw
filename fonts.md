@@ -53,7 +53,8 @@
 <td> * 进入以下网址,访问大纪元退党网站。 https://git.io/722 请复制后，用谷歌浏览器访问。
 </td> </tr>
   </table> 
-
+  
+</p>
 <div align="center">
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
