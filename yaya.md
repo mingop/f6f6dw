@@ -3,7 +3,9 @@
 
 <div align=center>
 <img src="img/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.123.251 </h3></b>
+ <h3><b>翻墙必看 视频 http://36.228.14.30 </h3></b>
+ 
+ <h4 align=center><a href="https://git.io/dfyaya">请收藏此连结 【 https://git.io/dfyaya 】方便日后能取得IP </a></h4> 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div>
 <a name=list></a><p>
@@ -25,7 +27,7 @@
 
 </tr>
 <tr>
-<td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-2.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
  
 <td><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf11474812.jpg" width="265"  border="0" alt=""></a></td>
 
@@ -35,7 +37,7 @@
 <tr>
  
 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-1.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-2.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
 
