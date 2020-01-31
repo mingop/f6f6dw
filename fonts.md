@@ -111,7 +111,7 @@
 <div align="center">
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
-
+<h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
 <div align="center">
 <img src="images/2018-02-13_021319.jpg" width=500></p></div>
 
@@ -119,7 +119,7 @@
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4 (游标点击右键,选另存新档)</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装及使用教学.mp4 (游标点击右键,选另存新档)</a></td>
 
 </table>
 
@@ -132,13 +132,22 @@
 <div align="center">
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
-<h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
+
 <h4 align="center"><b>(爱博电视)是桌机版的软件，在桌机上全频观看会更清楚。</b></h4>
+
+安装后运行桌面上的“iPPOTV”图标，软件翻墙成功后，会出现频道列表，双击“新唐人电视-中国频道”列表，缓冲到100%，就出现播放画面了。在频道列表中看视频直播中的中国频道，效果会好一些。该方法适用于Windows操作系统的电脑环境，如果用视频数据线连接到电视，多人共享收看效果会更好。</p>
 
 目前大陆的政经风云变幻莫测，爱博电视第一时间不经过滤的全方位传播海内外新闻焦点。不断优化革新，爱博电视成为大陆用户流畅收看及时视频资讯的可靠平台。安装爱博电视软体之后，不需要再用其他翻墙软体，打开爱博电视即可及时收看收听包括“新唐人电视台”，“希望之声”和“美国之音”在内的电视及广播节目。</p>
 <p></p>
 
-
+<h3 align="center"><b>注意：</b></h3>
+1、尽量提前运行软件，防止长时间连不上服务器。
+2、正常情况下启动爱博电视会很快接通，左侧窗口出现频道列表，如果长时间打不开频道列表，可以关闭程序反复从新启动几次。也可以先关闭程序，打开无界或自由门翻墙软件翻墙成功后再启动爱博电视。使用自由门时，在软件界面“设置——自由门代理控制”那一项设置成“所有网站都通过自由门代理访问”确定。
+3、如果长时间打不开频道列表，也可通过翻墙软件下载最新的结点文件“status16.ptp”
+http://ippotv.com/downloads/status16.ptp
+（点鼠标右键另存）， 覆盖iPPOTV程序目录下的同名文件，使用浏览器下载可能出现乱码，请使用“FDM”
+https://tiandixing.org/viewtopic.php?f=15&t=219407
+工具下载。
 
 <h3 align="center"><b>特别提醒</b></h3>
  特别要提醒用户的是，安装爱博电视或第一次打开爱博电视时，请务必先关闭已在使用的其他翻墙软体。如果安装或使用时忘记先关掉其他翻墙软体，会导致iPPOTV以海外用户的模式运行，因而出现收看不流畅现象。</p>
