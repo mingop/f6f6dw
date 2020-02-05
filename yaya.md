@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.130.31 </h3></b>
+ <h3><b>翻墙必看 视频 http://36.227.96.182 </h3></b>
  
  <h4 align=center><a href="https://git.io/dfyaya">请收藏此连结 【 https://git.io/dfyaya 】方便日后能取得IP </a></h4> 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
@@ -27,23 +27,23 @@
 
 </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-2.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-3.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
  
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf11474812.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-2.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-3.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
  </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-1029.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885-4.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-3.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885-4.jpg" width="265"  border="0" alt=""></a></td>
 	
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
-  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-1029.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-3.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
