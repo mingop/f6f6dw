@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="images/2018-04-20_154812.jpg" width=880></p>
-  <h3><b>翻墙必看 视频 http://36.227.96.182</h3></b>
+  <h3><b>翻墙必看 视频 http://220.141.128.156</h3></b>
   <h4 align=center><a href="https://git.io/opopop">请收藏此连结 【 https://git.io/opopop 】方便日后能取得IP </a></h4>
   
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
@@ -55,7 +55,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.227.96.182  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.128.156  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  </tr> 
 
 <tr>
@@ -75,6 +75,15 @@
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
 <h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>下載 翻牆軟件</h3>
+
+<table>
+
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/SzzdOgate.apk?raw=true'>神州明见.安卓版 SzzdOgate.apk</a></td>
+ 
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/PnyETyGmm.1.apk?raw=true'>网门 .安卓版 PnyETyGmm.1.apk</a></td>
+  
+ </table>
+
 
  <table>
 
