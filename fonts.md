@@ -87,9 +87,9 @@
 
  <table>
 
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/20fg772p.zip?raw=true'>*(更新2月7日)自由门.桌机版 20fg772p.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-2-13-fg773p.zip?raw=true'>*(更新2月13日)自由门.桌机版 2020-2-13-fg773p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/20--fg772p.exe?raw=true'>*(更新2月7日)自由门.桌机版 20--fg772p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-02-13-fg773p.exe?raw=true'>*(更新2月13日)自由门.桌机版 2020-02-13-fg773p.exe</a></td>
   
  </table>
  
