@@ -69,12 +69,12 @@
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
 <div align="center">
-<img src="images/2019-02-18_185146--5.jpg" width=880 ></p></div>
+<img src="images/2019-02-18_185146--5.jpg" width=680 ></p></div>
 
 <div align="center">
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
-<h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>下載 翻牆軟件</h3>
+<h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>免费下載 翻牆軟件</h3>
 
 <table>
 
@@ -87,9 +87,9 @@
 
  <table>
 
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-2-13-fg773p.zip?raw=true'>*(更新2月13日)自由门.桌机版 2020-2-13-fg773p.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-2-13-fg773p.zip?raw=true'>*(更新2月13日)自由门.桌机版 fg773p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-02-13-fg773p.exe?raw=true'>*(更新2月13日)自由门.桌机版 2020-02-13-fg773p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-02-13-fg773p.exe?raw=true'>*(更新2月13日)自由门.桌机版 fg773p.exe</a></td>
   
  </table>
  
