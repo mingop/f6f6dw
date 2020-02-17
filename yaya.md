@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.128.182 </h3></b>
+ <h3><b>翻墙必看 视频 http://36.228.40.87 </h3></b>
  
  <h4 align=center><a href="https://git.io/dfyaya">请收藏此连结 【 https://git.io/dfyaya 】方便日后能取得IP </a></h4> 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
@@ -27,25 +27,37 @@
 
 </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-3.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-4.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514--4.jpg" width="265"  border="0" alt=""></a></td>
  
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf11474812.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-3.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-4.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
  </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-3.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885-4.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-4.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885--4.jpg" width="265"  border="0" alt=""></a></td>
 	
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
-  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-3.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-4.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
+
+
+<tr>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4673.jpg" width="265"  border="0" alt=""></a></td>
+	
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf5287.jpg" width="265"  border="0" alt=""></a></td>
+ </tr>
+ 
+<tr>
+  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true">法轮功专辑·祛病健身.html(点击右键,另存新档)</a></center></td>
+
+ <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true">中共活摘器官黑幕.html(点击右键,另存新档)</a></center></td>
 
 </tr>
 </table>
@@ -53,12 +65,7 @@
 <div align=center>
 <img src="img/1552100-ss1.jpg">
 </div>
-
-
 <hr>
-
-
-
 <h2 align="center"><a href="http://cn.ntdtv.com/xtr/gb/prog57.html?raw=true">法轮大法是性命双修的修炼大法</a></h2>
 
 法轮大法是1992年5月由李洪志先生从长春传出的佛家上乘修炼大法，以宇宙最高特性“真善忍”为根本指导，按照宇宙演化原理修炼。</p>
