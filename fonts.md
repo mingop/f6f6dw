@@ -99,6 +99,12 @@
 
  <table>
 
+<td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg--774p.zip?raw=true'>*(更新2月21日)自由门.桌机版 fg774p.zip</a></td>
+ 
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg++774p.exe?raw=true'>*(更新2月21日)自由门.桌机版 fg774p.exe</a></td>
+  
+ </table>
+
  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-2-13-fg773p.zip?raw=true'>*(更新2月13日)自由门.桌机版 fg773p.zip</a></td>
  
   <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2020-02-13-fg773p.exe?raw=true'>*(更新2月13日)自由门.桌机版 fg773p.exe</a></td>
