@@ -7,7 +7,7 @@
 <h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
 </div>
 
-<div align="center"><h3><a href="https://git.io/pamja">请往下方免费下載 翻牆軟件 </a></h3> </div>
+<div align="center"><h3><a href="https://git.io/pamja">● 请往下方免费下載 翻牆軟件 ● </a></h3> </div></p>
 
 
 <table>
