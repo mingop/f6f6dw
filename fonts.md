@@ -4,8 +4,11 @@
   <h3><b>翻墙必看 视频 http://220.141.128.50 </h3></b>
   <h4 align=center><a href="https://git.io/opopop">请收藏此连结 【 https://git.io/opopop 】方便日后能取得IP </a></h4>
   
-<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
+<h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
 </div>
+
+<div align="center"><h3><a href="https://git.io/pamja">请往下方免费下載 翻牆軟件 </a></h3> </div>
+
 
 <table>
  </td>
