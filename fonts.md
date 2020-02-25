@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="images/2018-04-20_154812.jpg" width=880></p>
-  <h3><b>翻墙必看 视频 http://220.141.128.50 </h3></b>
+  <h3><b>翻墙必看 视频 http://111.241.92.70 </h3></b>
   <h4 align=center><a href="https://git.io/opopop">请收藏此连结 【 https://git.io/opopop 】方便日后能取得IP </a></h4>
   
 <h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
@@ -70,7 +70,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.128.50  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://111.241.92.70  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  </tr> 
 
 <tr>
