@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="img/2018-06-29_21475-1.jpg" width=880>
-<h2><b>翻墙必看 视频 http://111.241.92.70</h2></b>
+<h2><b>翻墙必看 视频 http://220.141.131.243</h2></b>
 	
 <h4 align=center><a href="https://git.io/zfzfzf">请收藏此连结 【 https://git.io/zfzfzf 】方便日后能取得IP </a></h4> 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h1></div>
