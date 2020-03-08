@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.130.83 </h3></b>
+ <h3><b>翻墙必看 视频 http://36.228.47.69 </h3></b>
  
  <h4 align=center><a href="https://git.io/dfyaya">请收藏此连结 【 https://git.io/dfyaya 】方便日后能取得IP </a></h4> 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
