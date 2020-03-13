@@ -100,9 +100,9 @@
  </table>
 
 <table>
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-2-fg775p.zip?raw=true'>*(更新02/29)自由门.桌机版 fg775p.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.zip?raw=true'>*(更新02/29)自由门.桌机版 fg777p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg775p.exe?raw=true'>*(更新02/29)自由门.桌机版 fg775p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.exe?raw=true'>*(更新02/29)自由门.桌机版 fg777p.exe</a></td>
   
  </table>
 
