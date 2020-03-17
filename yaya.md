@@ -2,10 +2,12 @@
 
 
 <div align=center>
-<img src="img/013126.jpg">
- <h3><b>翻墙必看 视频 http://61.228.177.188/300 </h3></b>
+<img src="img/013126.jpg"></p>
+<img src="img/3-17-swspip.jpg" width=880></p>
+	
+ <h3><b>翻墙必看 视频 http://61.228.179.75/300 </h3></b>
  
- <h4 align=center><a href="https://git.io/dfyaya">请收藏此连结 【 https://git.io/dfyaya 】方便日后能取得IP </a></h4> 
+ 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div>
 <a name=list></a><p>
