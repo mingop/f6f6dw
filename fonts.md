@@ -4,10 +4,10 @@
 <div align="center">
 <img src="img/3-17-swspip.jpg" width=880></div></p>
 
-  <h3><b>翻墙必看 视频 http://61.228.179.75/300 </h3></b>
+  <div align="center"><h3><b>翻墙必看 视频 http://61.228.179.75/300 </h3></b></div>
   
   
-<h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
+<div align="center"><h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
 </div>
 
 <div align="center"><h3><a href="https://git.io/pamja">● 请往下方免费下載 翻牆軟件 ● </a></h3> </div></p>
