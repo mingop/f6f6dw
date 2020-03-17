@@ -1,8 +1,11 @@
 
 <div align="center">
 <img src="images/2018-04-20_154812.jpg" width=880></p>
+<div align="center">
+<img src="images/3-17-swspip.jpg" width=880></p>
+
   <h3><b>翻墙必看 视频 http://61.228.179.75/300 </h3></b>
-  <h4 align=center><a href="https://git.io/opopop">请收藏此连结 【 https://git.io/opopop 】方便日后能取得IP </a></h4>
+  
   
 <h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
 </div>
@@ -117,8 +120,14 @@
 
   <table >
 
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/free-Android4.0.apk?raw=true'>自由门.安卓版4.0.apk</a></td>
 
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-17free-Android4.0.zip?raw=true'>自由门.安卓版4.0.zip</a></td>
+
+</table>
+
+ <table >
+<td>提醒: 自-由-门安卓版4.0版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um=4.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></td>
 
  </table>
