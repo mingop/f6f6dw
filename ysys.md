@@ -5,7 +5,7 @@
 	
 <h3 align=center>翻墙必看 视频 http://61.228.179.75/300 </h3>
 	
-<h4 align=center><a href="https://git.io/9p9pos">请收藏此连结 【 https://git.io/9p9pos 】方便日后能取得IP </a></h4> 
+
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div>
 
