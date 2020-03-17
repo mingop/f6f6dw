@@ -1,6 +1,6 @@
 
 <img src="img/2013-6-9-falun_dafa_hao_minghui.org.jpg" width=880></p>
-<img src="img/3-17-swspip.jpg" width=580></p>
+<div align="center"><img src="img/3-17-swspip.jpg" width=880></div></p>
 
 智者先贤们都预言了今天的事，当有行大善者劝您退出来时，一定要退出来，“遭了此劫不上算”，切莫错过神佛对我们的慈悲！在大地震、非典、大洪水等各种天灾人祸面前，许多善良的大陆同胞因做了三退，并诚心默念“法轮大法好、真善忍好”而得平安福报。</p>
  
