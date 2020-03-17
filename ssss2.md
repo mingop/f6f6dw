@@ -1,9 +1,11 @@
 
 <div align=center>
-<img src="img/2018-06-29_21475-1.jpg" width=880>
-<h2><b>翻墙必看 视频 http://61.228.177.188/300</h2></b>
+<img src="img/2018-06-29_21475-1.jpg" width=880></p>
+<img src="img/3-17-swspip.jpg" width=880></p>
 	
-<h4 align=center><a href="https://git.io/zfzfzf">请收藏此连结 【 https://git.io/zfzfzf 】方便日后能取得IP </a></h4> 
+<h2><b>翻墙必看 视频 http://61.228.179.75/300</h2></b>
+	
+
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h1></div>
 
 <table>
@@ -69,7 +71,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.177.188/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  </tr> 
 
 <tr>
