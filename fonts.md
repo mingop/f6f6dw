@@ -103,17 +103,17 @@
  </table>
 
 <table>
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.zip?raw=true'>*(更新02/29)自由门.桌机版 fg777p.zip</a></td>
+
+<td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-19-fg778p.zip?raw=true'>*(更新3月19日)自由门.桌机版 fg778p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.exe?raw=true'>*(更新02/29)自由门.桌机版 fg777p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-19-fg778p.exe?raw=true'>*(更新3月19日)自由门.桌机版 fg778p.exe</a></td>
   
  </table>
 
- <table>
-
-<td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg--774p.zip?raw=true'>*(更新2月21日)自由门.桌机版 fg774p.zip</a></td>
+<table>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.zip?raw=true'>*(更新02/29)自由门.桌机版 fg777p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/fg++774p.exe?raw=true'>*(更新2月21日)自由门.桌机版 fg774p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-13fg777p.exe?raw=true'>*(更新02/29)自由门.桌机版 fg777p.exe</a></td>
   
  </table>
 
