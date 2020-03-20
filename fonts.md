@@ -4,7 +4,7 @@
 <div align="center">
 <img src="img/3-17-swspip.jpg" width=880></div></p>
 
-  <div align="center"><h3><b>翻墙必看 视频 http://61.228.179.75/300 </h3></b></div>
+  <div align="center"><h3><b>翻墙必看 视频 http://61.228.179.169/300 </h3></b></div>
   
   
 <div align="center"><h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
@@ -73,7 +73,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  </tr> 
 
 <tr>
@@ -128,7 +128,7 @@
 
  <table >
 <td>提醒: 自-由-门安卓版4.0版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um=4.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um4.8.apk?raw=true'>*(更新03/20)无界浏览.安卓版4.8.apk</a></td>
 
  </table>
  
