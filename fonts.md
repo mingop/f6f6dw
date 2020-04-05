@@ -120,14 +120,14 @@
 
   <table >
 
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/free-Android4.0.apk?raw=true'>自由门.安卓版4.0.apk</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/f+g+ma+42.apk?raw=true'>自由门.安卓版4.2.apk</a></td>
 
-<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/3-17free-Android4.0.zip?raw=true'>自由门.安卓版4.0.zip</a></td>
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/f+g+ma+42.zip?raw=true'>自由门.安卓版4.2.zip</a></td>
 
 </table>
 
  <table >
-<td>提醒: 自-由-门安卓版4.0版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
+<td>提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um4.8.apk?raw=true'>*(更新03/20)无界浏览.安卓版4.8.apk</a></td>
 
  </table>
