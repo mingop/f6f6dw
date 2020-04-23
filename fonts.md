@@ -4,7 +4,7 @@
 <div align="center">
 <img src="img/3-17-swspip.jpg" width=880></div></p>
 
-  <div align="center"><h3><b>翻墙必看 视频 http://61.228.179.169/300 </h3></b></div>
+  <!-- <div align="center"><h3><b>翻墙必看 视频 http://61.228.179.169/300 </h3></b></div> -->
   
   
 <div align="center"><h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3>
@@ -18,23 +18,23 @@
 
 </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-4.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514--4.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-5.jpg" width="265"  border="0" alt=""></a></td>
  
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-4.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
  </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-4.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885--4.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf1358885-5.jpg" width="265"  border="0" alt=""></a></td>
 	
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
-  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-4.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
@@ -71,14 +71,14 @@
 其实不只是我，所有把“法轮大法好，真善忍好”记在心里的百姓们，都会不害怕瘟疫，也不会害怕灾难，因为与神佛站在一起的人，都会得到神佛的保护，都会拥有美好的未来。</p>
  <h3 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h3></td></tr>
  
-<tr>
+<!--<tr>
  <td>
  <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
- </tr> 
+ </tr>  -->
 
 <tr>
  <td>
- <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
+ <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://bit.ly/3asSXIA  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
 </tr>
  </table> 
   
