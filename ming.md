@@ -2,7 +2,7 @@
 <div align=center>
 <img src="images/banner.jpg" width=880></p>
 <img src="img/3-17-swspip.jpg" width=880></p></div>
- <div align=center><h2>请收藏本网址，连上免翻视频即时IP https://bit.ly/3ezRQKo </h2>
+ <div align=center><h2>请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h2>
 
 	
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
