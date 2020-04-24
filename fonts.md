@@ -96,6 +96,21 @@
 
 <table>
 
+ <td  width="440"  环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  </br>
+ 1 下载安装后启动</br>
+2 第一个画面点选一个线路(遇到封锁时可选其它)</br>
+3 主画面出现，可以开始使用了</br>
+ </td>
+ 
+ 
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声(安卓版)</a></td>
+  
+ </table>
+
+
+
+<table>
+
  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/SzzdOgate.apk?raw=true'>神州明见.安卓版 SzzdOgate.apk</a></td>
  
   <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/PnyETyGmm.1.apk?raw=true'>网门 .安卓版 PnyETyGmm.1.apk</a></td>
