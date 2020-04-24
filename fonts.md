@@ -96,7 +96,7 @@
 
 <table>
 
- <td  width="540" border="0" 
+ <td  width="540" border="2" 
  环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
  1 下载安装后启动
 2 第一个画面点选一个线路(遇到封锁时可选其它)
