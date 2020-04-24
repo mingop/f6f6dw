@@ -102,7 +102,7 @@
 </td>
  
  
-  <td  width="340"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:</br>希望之声(安卓版).zip</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:</br>希望之声(安卓版).zip</a></td>
   
  </table>
 
