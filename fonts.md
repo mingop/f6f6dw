@@ -98,10 +98,8 @@
 
  <td  width="540" border="2" 
  环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
- 1 下载安装后启动
-2 第一个画面点选一个线路(遇到封锁时可选其它)
-3 主画面出现，可以开始使用了
- </td>
+ 1 下载安装后启动2 第一个画面点选一个线路(遇到封锁时可选其它)3 主画面出现，可以开始使用了
+</td>
  
  
   <td  width="340"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:</br>希望之声(安卓版).zip</a></td>
