@@ -96,7 +96,7 @@
 
 <table>
 
- <td>
+ <td width="440">
  环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  </br>
  1 下载安装后启动</br> 2 第一个画面点选一个线路(遇到封锁时可选其它)</br> 3 主画面出现，可以开始使用了
 </td>
@@ -141,7 +141,7 @@
 </table>
 
  <table >
-<td>提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
+<td width="440">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um4.8.apk?raw=true'>*(更新03/20)无界浏览.安卓版4.8.apk</a></td>
 
  </table>
