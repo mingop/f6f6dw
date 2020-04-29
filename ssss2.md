@@ -3,10 +3,14 @@
 <img src="img/2018-06-29_21475-1.jpg" width=880></p>
 <img src="img/3-17-swspip.jpg" width=880></p>
 	
-<h2><b>翻墙必看视频 请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h2></b>
+<h3><b>翻墙必看视频 请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h3></b>
 	
+<div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
+ <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
+ 
+ <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
 
-<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h1></div>
+<h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h3></div>
 
 <table>
  </td>
