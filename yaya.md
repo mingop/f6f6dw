@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/013126.jpg"></p>
-<img src="img/3-17-swspip.jpg" width=880></p>
+<img src="img/3-17-swspip.jpg" width=480></p>
 	
  <h3><b>翻墙必看视频 请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h3></b>
  
