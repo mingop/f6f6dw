@@ -3,6 +3,7 @@
 <img src="images/banner.jpg" width=880></p>
 <img src="img/3-17-swspip.jpg" width=880></p></div></p>
 
+<div align="center"><h3>请收藏网址(新闻视频)  https://bit.ly/3ezRQKo 随时连上最新即时IP</h3></div> </p>
 <div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
  <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
  
