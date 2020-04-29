@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/au6.jpg" width=880></p>
-<img src="img/3-17-swspip.jpg" width=880></p>	</div>
+<img src="img/3-17-swspip.jpg" width=480></p>	</div>
 <div align=center><h3>请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h3>
 
 <div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
