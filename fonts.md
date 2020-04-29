@@ -2,7 +2,7 @@
 <div align="center">
 <img src="images/2018-04-20_154812.jpg" width=880></div></p>
 <div align="center">
-<img src="img/3-17-swspip.jpg" width=880></div></p>
+<img src="img/3-17-swspip.jpg" width=480></div></p>
 
   <div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
   <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
