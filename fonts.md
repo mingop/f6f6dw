@@ -19,9 +19,9 @@
 
 </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-5.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-5.jpg" width="265"  border="0" alt=""></a></center></td>
  
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></center></td>
  </tr>
  
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
@@ -29,9 +29,9 @@
 <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
  </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf135888-5.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf135888-5.jpg" width="265"  border="0" alt=""></a></center></td>
 	
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></center></td>
  </tr>
  
 <tr>
@@ -41,9 +41,9 @@
 
 
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4673.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4673.jpg" width="265"  border="0" alt=""></a></center></td>
 	
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf5287.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf5287.jpg" width="265"  border="0" alt=""></a></center></td>
  </tr>
  
 <tr>
