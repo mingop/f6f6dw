@@ -4,7 +4,7 @@
 <div align="center">
 <img src="img/3-17-swspip.jpg" width=480></div></p>
 
-  <div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
+  <div align="center"><h3><b>请收藏本网址，连上免翻视频 https://bit.ly/3ezRQKo </h3></b></div> </p>
   <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
  
  <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
@@ -98,12 +98,12 @@
 <table>
 
  <td width="440">
- 环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  </br>
- 1 下载安装后启动</br> 2 第一个画面点选一个线路(遇到封锁时可选其它)</br> 3 主画面出现，可以开始使用了
+ 环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
+ 1 下载安装后启动2 第一个画面点选一个线路(遇到封锁时可选其它) 3 主画面出现，可以开始使用了
 </td>
  
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:</br>希望之声(安卓版).zip</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:希望之声(安卓版).zip</a></td>
   
  </table>
 
@@ -111,17 +111,17 @@
 
 <table>
 
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/SzzdOgate.apk?raw=true'>神州明见.安卓版 SzzdOgate.apk</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/SzzdOgate.apk?raw=true'>神州明见.安卓版 SzzdOgate.apk</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/PnyETyGmm.1.apk?raw=true'>网门 .安卓版 PnyETyGmm.1.apk</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/PnyETyGmm.1.apk?raw=true'>网门.安卓版 PnyETyGmm.1.apk</a></td>
   
  </table>
 
 <table>
 
-<td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.zip?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.zip</a></td>
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.zip?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.exe?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.exe</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.exe?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.exe</a></td>
   
  </table>
 
