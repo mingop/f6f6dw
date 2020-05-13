@@ -97,7 +97,7 @@
 
 <table>
 
- <td width="880"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
+ <td width="880"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>https://reurl.cc/E7XN6v 环门 (安卓版) 035  软件下载网址   
  1 下载安装后启动2 第一个画面点选一个线路(遇到封锁时可选其它) 3 主画面出现，可以开始使用了
 </a></td>
   </table>
@@ -134,7 +134,7 @@
 </table>
 
  <table >
-<td width="880">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
+<td width="880" border="0" alt="" align="center">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
 </table>
 
 <table>
