@@ -94,16 +94,15 @@
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
 <h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>免费下載 翻牆軟件</h3>
-
+<td width="440">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
 <table>
 
- <td width="440">
- 环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
+ <td width="440"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
  1 下载安装后启动2 第一个画面点选一个线路(遇到封锁时可选其它) 3 主画面出现，可以开始使用了
-</td>
+</a></td>
  
  
-  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声推出自带翻墙功能手机APP:希望之声(安卓版).zip</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.apk?raw=true'>希望之声(安卓版).zip</a></td>
   
  </table>
 
