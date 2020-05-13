@@ -97,7 +97,7 @@
 
 <table>
 
- <td width="340"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
+ <td width="880"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>环门 (安卓版) 035  软件下载网址 https://reurl.cc/E7XN6v  
  1 下载安装后启动2 第一个画面点选一个线路(遇到封锁时可选其它) 3 主画面出现，可以开始使用了
 </a></td>
   </table>
@@ -134,11 +134,11 @@
 </table>
 
  <table >
-<td width="440">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
+<td width="880">提醒: 自-由-门安卓版4.2版必须安卓Android 7或以上的智能手机或平板电脑上使用</td>
 </table>
 
 <table>
-  <td width="540"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.zip?raw=true'>希望之声(安卓版).zip</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/soh-3-20.zip?raw=true'>希望之声(安卓版).zip</a></td>
   
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/um4.8.apk?raw=true'>*(更新03/20)无界浏览.安卓版4.8.apk</a></td>
 
