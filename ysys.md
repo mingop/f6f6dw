@@ -44,7 +44,7 @@
 <hr>
 
 <div align=center>
-<img src="images/2020-05-20_194431.jpg"width=880>
+<img src="images/2020-05-20_194431.jpg"width=680>
 </div>
 <hr>
 
@@ -58,7 +58,7 @@
 	</table>
 	
 <table>
-<td width=440 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
+<td width=880 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
 	</table>	
 	
 <table>
