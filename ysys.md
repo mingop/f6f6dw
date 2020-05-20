@@ -44,7 +44,7 @@
 <hr>
 
 <div align=center>
-<img src="images/bb.jpg"width=880>
+<img src="images/2020-05-20_194431.jpg"width=880>
 </div>
 <hr>
 
@@ -54,8 +54,13 @@
 <table>
 <tr>
 	<td width=440><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></h4></td>
-	<td width=440 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
+	<td width=440 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9ping.html?raw=true">文字版閱讀.html下载(点击右键,另存新档)</a></h4></td></tr>
 	</table>
+	
+<table>
+<td width=440 ><h4 align=center><a href="https://github.com/mingop/f6f6dw/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
+	</table>	
+	
 <table>
 <tr>
 <td width=880>■ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件。</p>
@@ -443,7 +448,7 @@
 
 </tr>
 <tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-6.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-5.jpg" width="265"  border="0" alt=""></a></td>
+<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-6.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-6.jpg" width="265"  border="0" alt=""></a></td>
  
 <td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
