@@ -1,8 +1,7 @@
 
 <div align=center>
 <img src="img/2018-06-29_21475-1.jpg" width=880></p>
-<img src="img/3-17-swspip.jpg" width=480></p>
-	
+
 <h3><b>翻墙必看视频 请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP  </h3></b>
 	
 <div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
@@ -10,76 +9,16 @@
  
  <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
 
-<h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h3></div>
+<h3><b><a href="https://github.com/mingop/faaap/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ●</a></b></h3></div>
 
-<table>
- </td>
-
-</tr>
-<tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4514-5.jpg" width="265"  border="0" alt=""></a></td>
- 
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2nf1147481-1.jpg" width="265"  border="0" alt=""></a></td>
- </tr>
- 
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4514-5.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
-
-<td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
- </tr>
-<tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf135888-5.jpg" width="265"  border="0" alt=""></a></td>
-	
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/2020-01-25_150201.jpg" width="265"  border="0" alt=""></a></td>
- </tr>
- 
-<tr>
-  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf1358885-5.html?raw=true">武汉肺炎—新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
-
- <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
-
-
-<tr>
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf4673.jpg" width="265"  border="0" alt=""></a></td>
-	
-<td width="440"><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true"><img src="https://github.com/mingop/f6f6dw/blob/master/img/nf5287.jpg" width="265"  border="0" alt=""></a></td>
- </tr>
- 
-<tr>
-  <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/dong/nf4673.html?raw=true">法轮功专辑·祛病健身.html(点击右键,另存新档)</a></center></td>
-
- <td><center><a href="https://github.com/mingop/f6f6dw/blob/master/video/nf5287.html?raw=true">中共活摘器官黑幕.html(点击右键,另存新档)</a></center></td>
-
-</tr>
-</table>
-
-
-
-<table>
- <tr>
- <td>
-  智者先贤们都预言了今天的事，当有行大善者劝您退出来时，一定要退出来，“遭了此劫不上算”，切莫错过神佛对我们的慈悲！在大地震、非典、大洪水等各种天灾人祸面前，许多善良的大陆同胞因做了三退，并诚心默念“法轮大法好、真善忍好”而得平安福报。</p>
-	
-<h3 align="center">不怕瘟疫的人</h3>
-【明慧网二零二零年一月二十五日】〖中国沈阳来稿〗近日，我经历了一场与无名疾病对决的较量，结果我赢了。事情是这样的：二零二零年新年的第二天下午，我去沈阳市某大型超市购物，没想到人山人海的，原来新年这两天商品打五折。但既然来了我还是买一点东西，并安心的排队等着交款。</p>
-
-当天傍晚开始咳嗽，第二天就发烧，不想吃东西。我没在乎。不曾想症状越来越严重：发烧让我躺在床上起不来，好象内脏都肿了，呼吸困难，咳得很厉害好象要吐血了，全身的骨头都痛，头也痛，还有麻木的感觉，盖着厚厚的棉被还感觉冷！
-
-尽管这样，我一点没有害怕，因为我心里装了救命的法宝：念“法轮大法好，真善忍好！”坚持念，烧了四天，不烧了，只是咳嗽。尽管没力气，象心衰的感觉，我还是出门了，也没告诉亲人们，怕他们担心啊。历时两星期，我彻底好了。
-
-当亲人们知道我是诚心敬念“法轮大法好，真善忍好”而平安无事时，胃不舒服的老人相信了，也开始认真念“法轮大法好，真善忍好”了。
-
-是呀，自从我明白法轮功真相，并退出中共的团、队组织后，再也不怕什么疾病、瘟疫、灾难了，因为我知道了无数的人因敬念“法轮大法好，真善忍好”而绝处逢生，知道了法轮功来到世间是来救人的。
-
-其实不只是我，所有把“法轮大法好，真善忍好”记在心里的百姓们，都会不害怕瘟疫，也不会害怕灾难，因为与神佛站在一起的人，都会得到神佛的保护，都会拥有美好的未来。</p>
- <h3 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h3></td></tr>
- 
+<table> 
 <!--<tr>
  <td>
  <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  </tr>  -->
 
 <tr>
- <td>
+ <td><h3 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h3>
  <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站   https://bit.ly/3asSXIA 下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
 </tr>
   </table> 
