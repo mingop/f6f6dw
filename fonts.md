@@ -51,17 +51,17 @@
  </table>
 
 <table>
-
-<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.zip?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-25-fg782r.zip?raw=true'>*(更新05/25)自由门.桌机版 fg782r.zip</a></td>
  
-  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.exe?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-25-fg782r.exe?raw=true'>*(更新05/25)自由门.桌机版 fg782r.exe</a></td>
   
  </table>
 
 <table>
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/425-fg779p.zip?raw=true'>*(更新04/25)自由门.桌机版 fg779p.zip</a></td>
+
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.zip?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/425-fg779p.exe?raw=true'>*(更新04/25)自由门.桌机版 fg779p.exe</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/5-8-fg780p.exe?raw=true'>*(更新5月08日)自由门.桌机版 5-8-fg780p.exe</a></td>
   
  </table>
 
