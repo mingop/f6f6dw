@@ -37,6 +37,28 @@
 
 <h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>免费下載 翻牆軟件</h3>
 
+
+
+<div align="center"><img src="dong/2mariobtpic-01.jpg" width=600></div><p>
+<div align="center"><h3><b>网必通 免费翻墙神器</b></h3></div>
+
+⭕️拥有能持续获得新时事真相和解析的管道
+⭕️只要下载后  就能持续能看到新资讯  不怕封锁
+⭕️ 自动安装 / 自动更新/  
+⭕️方便,速度快 / 适合新手使用
+
+💎局勢變化很快
+💎知情权就是生命权
+💎洪灾, 疫情, 财经速报 / 内幕趋势解析
+
+⭕️安卓. Windows 版下载: 
+https://bit.ly/2OHYan7
+⭕️MAC 版下载: 
+https://bit.ly/2CTDs1e
+
+
+
+
 <table>
 
  <td width="880"  border="0" alt="" align="center"><a href='https://reurl.cc/E7XN6v'>https://reurl.cc/E7XN6v 环门 (安卓版) 035  软件下载网址   
