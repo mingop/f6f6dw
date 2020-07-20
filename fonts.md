@@ -55,7 +55,7 @@
 https://bit.ly/2OHYan7
 ⭕️MAC 版下载: 
 https://bit.ly/2CTDs1e
-
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 
 
