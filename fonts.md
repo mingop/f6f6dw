@@ -26,14 +26,12 @@
  </table> 
   
 </p>
-<div align="center">
-<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <div align="center">
 <img src="images/2019-02-18_185146--5.jpg" width=680 ></p></div>
 
-<div align="center">
-<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <h3 align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/18.05u.zip?raw=true'>免费下載 翻牆軟件</h3>
 
@@ -117,7 +115,7 @@ https://bit.ly/2CTDs1e
  
 </table>
 
-<p></p>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
 
@@ -126,8 +124,7 @@ https://bit.ly/2CTDs1e
  提醒你，使用翻墙软件时，请关闭其它网站网页，并请暂时关闭国产杀毒软件（如瑞星、金山 、360）或“绿坝”等, 它会阻止软件的运行, 并说有病毒,这是国内在有意拦截突破封锁的通道,那是封锁的伎俩,不让人民知道真相,请安心使用,没有病毒。</p>
 <br/>
 
-<div align="center">
-<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
 <div align="center">
@@ -147,8 +144,7 @@ https://bit.ly/2CTDs1e
 	</table>
 <br/>
 
-<div align="center">
-<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 
 <h4 align="center"><b>(爱博电视)是桌机版的软件，在桌机上全频观看会更清楚。</b></h4>
@@ -173,8 +169,7 @@ https://tiandixing.org/viewtopic.php?f=15&t=219407
   爱博电视具有使用的人越多，突破封锁和观看效果越好的特点。另外，爱博电视采用传输加密技术，保护用户个人资讯，使用安全可靠。欢迎广大用户测试使用并提出回馈建议：support@starp2p.com </p>
 <br/>
 
-<div align="center">
-<img src="images/b_illust_54_0M.png" width=880 ></p></div>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <h2 align="center" ><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2.1.13-iNTD_TVsp1.apk?raw=true'> <b>新唐人移动平台 及时掌握天下事</a></b></h2>
 
