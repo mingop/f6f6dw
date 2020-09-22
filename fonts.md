@@ -73,18 +73,18 @@ https://bit.ly/2CTDs1e
  </table>
 
 <table>
-
-<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/7-07-fg787r.zip?raw=true'>*(更新7月07日)自由门.桌机版 7-07-fg787r.zip</a></td>
+ <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/9-18-fg790p.zip?raw=true'>*(更新09/18)自由门.桌机版 9-18-fg790p.zip</a></td>
  
-  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/7-07-fg787r.exe?raw=true'>*(更新7月07日)自由门.桌机版 7-07-fg787r.exe</a></td>
+  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/9-18-fg790p.exe?raw=true'>*(更新09/18)自由门.桌机版 9-18-fg790p.exe</a></td>
   
  </table>
 
 
 <table>
- <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/6-26-fg786r.zip?raw=true'>*(更新06/26)自由门.桌机版 6-26-fg786r.zip</a></td>
+
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/7-07-fg787r.zip?raw=true'>*(更新7月07日)自由门.桌机版 7-07-fg787r.zip</a></td>
  
-  <td  width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/6-26-fg786r.exe?raw=true'>*(更新06/26)自由门.桌机版 6-26-fg786r.exe</a></td>
+  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/7-07-fg787r.exe?raw=true'>*(更新7月07日)自由门.桌机版 7-07-fg787r.exe</a></td>
   
  </table>
 
