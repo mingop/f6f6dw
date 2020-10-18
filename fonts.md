@@ -201,6 +201,7 @@ https://tiandixing.org/viewtopic.php?f=15&t=219407
  若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件wrar35b2sc.exe(999KB), 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</p>    
  
 <hr>
+<div align="center"><img src="images/2018-08-08_174503.jpg" width=600></div><p>
 
 <div align=center>
 <img src="images/2018-04-15_182301.jpg" width=680></div>
@@ -246,17 +247,17 @@ https://tiandixing.org/viewtopic.php?f=15&t=219407
   </div>
  
  <div align=center>
-<img src="images/guide1.png" width=680 >
-<img src="images/guide2.png" width=680 >
-<img src="images/guide3.png" width=680 >
-<img src="images/guide4.png" width=680 >
-<img src="images/guide5.png" width=680 >
-<img src="images/guide6.png" width=680 >
-<img src="images/guide7.png" width=680 >
-<img src="images/img1.png" width=680 >
-<img src="images/img2.png" width=680 >
-<img src="images/img3.png" width=680 >
-<img src="images/2020-10-18_121445.jpg" width=680 >
+<img src="dong/guide1.png" width=680 >
+<img src="dong/guide2.png" width=680 >
+<img src="dong/guide3.png" width=680 >
+<img src="dong/guide4.png" width=680 >
+<img src="dong/guide5.png" width=680 >
+<img src="dong/guide6.png" width=680 >
+<img src="dong/guide7.png" width=680 >
+<img src="dong/img1.png" width=680 >
+<img src="dong/img2.png" width=680 >
+<img src="dong/img3.png" width=680 >
+<img src="dong/2020-10-18_121445.jpg" width=680 >
 </p>
 </div>
 
