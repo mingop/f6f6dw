@@ -237,33 +237,31 @@ https://tiandixing.org/viewtopic.php?f=15&t=219407
   </div>
   
   <br/>
-<h2 align=center><a href="https://"> "希望之声" 移动收听</a></h2>
+<h2 align=center><a href="https://"> "明慧电台"对中国短波节目收听指南</a></h2>
    <div>
   <ul>
-  <li>希望之声新版手机应用在苹果、安卓平台同步推出了！精彩的电台联播、真实的新闻资讯、名家的评论、深邃的历史、轻松的音乐……尽在您的手指尖！立即安装、即刻拥有！</li>
+  <li>【明慧网二零二零年十月十四日】（明慧简讯）明慧广播电台即将恢复对中国大陆的短波节目。播出时间是北京时间傍晚17:00（明慧时事）和早上5:00（修炼交流）。欢迎各位听众朋友继续支持，收听、转发消息及提供反馈。</li>
  </li>
  </ul>
   </div>
  
  <div align=center>
-<img src="images/2018-05-10_160955.jpg" width=680 >
+<img src="images/guide1.png" width=680 >
+<img src="images/guide2.png" width=680 >
+<img src="images/guide3.png" width=680 >
+<img src="images/guide4.png" width=680 >
+<img src="images/guide5.png" width=680 >
+<img src="images/guide6.png" width=680 >
+<img src="images/guide7.png" width=680 >
+<img src="images/img1.png" width=680 >
+<img src="images/img2.png" width=680 >
+<img src="images/img3.png" width=680 >
+<img src="images/2020-10-18_121445.jpg" width=680 >
 </p>
 </div>
- <table>
-<tr>
-<td width=450 align="center"><img src="images/soh-qrcode.png"></td>
-       <td width=450><h2 align="center"><a href="https://"> qrcode进入,点击安装，即刻收听</td></a></h2>
-</tr>
-</table> 
+
+</p>
  
- 
- <br/>
-
-<div align=center>
-<img src="images/b_illust_54_0M.png"width=880><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
-</div>
-
-
 <table>
 <tr>
 <td width=500 ><a href="github.com/mingop/f6f6dw/blob/master/book/s-fangqian (2).epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
