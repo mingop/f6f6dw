@@ -91,9 +91,9 @@ https://bit.ly/2CTDs1e
 
   <table >
 
- <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/f+g+ma+42.apk?raw=true'>自由门.安卓版4.2.apk</a></td>
+ <td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2010-10-17fgma43.apk?raw=true'>*(更新10月17日)自由门.安卓版4.3.apk</a></td>
 
-<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/f+g+ma+42.zip?raw=true'>自由门.安卓版4.2.zip</a></td>
+<td width="440"  border="0" alt="" align="center"><a href='https://github.com/mingop/f6f6dw/blob/master/dong/2010-10-17fgma43.zip?raw=true'>*(更新10月17日)自由门.安卓版4.3.zip</a></td>
 
 </table>
 
